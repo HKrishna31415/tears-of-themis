@@ -1,48 +1,38 @@
-# Genshin Impact Wish Simulator
-A React web application to simulate Genshin Impact gacha in the browser
+# Tears of Themis Simulator
+A React web application to simulate Tears of Themis gacha based off the better made
+and more popular Genshin Impact gacha react app.
 
 ## Disclaimer
 
 <p>
-  This Genshin Impact Wish Simulator was only created for fun and absolutely no monetary gain.
+  This simulator was only created for Karen's birthday because she couldn't pull who she wanted to.
 </p>
 <p>
-  I am someone who enjoys playing Genshin Impact and enjoys building applications for fun.
   I am not affiliated with Mihoyo, all assets in this application were taken from third party websites and some screenshotted from the game itself.
-</p>
-<p>
-  If you are someone from Mihoyo and would like the website taken down please email me <a href="mailto:uzinatorcl@gmail.com">here</a> and I shall do so.
-</p>
-<p>
-  Pls don't get me in trouble this was just for fun T_T
 </p>
 <p>
   All product names, logos, and brands are property of their respective owners in the United States and/or other countries.
 </p>
 
-#### Special Thanks
+#### Assets From
+https://www.nxxtoolbox.com/home
+https://tiramisiyu.tumblr.com/
+https://docs.google.com/spreadsheets/d/1no7RCQOaUaDMnOoIqWroQ3eqWG1WQlcVeElMXKhbf24/edit?usp=drivesdk
 
-Thank you to all the supporters on Reddit, everyone's kind words mean a lot and the feedback has been awesome.
-
-Thank you to [lauslim12](https://github.com/lauslim12) and [elebitzero](https://github.com/elebitzero), your guy's contributions have been an amazing help.
-
-Thanks to the following redditors who sent me their 5 Star animation videos.
-
-- /u/ShiroYashaa
-- /u/a_truly_masterpiece
 
 ## Technologies Used
-- React
-- Webpack
-- Babel
-- Bootstrap 4
-- Mocha
-- Chai
-- Cypress
+- React (best js framework)
+- Webpack (module bundler)
+- Babel (compiling ES6 and JSX)
+- Bootstrap 4 (design)
+- Mocha (testing)
+- Chai (testing and asserting)
+- Cypress (testing)
 
 ## Live
 
-Try the application live at [https://gi-wish-simulator.uzairashraf.dev/](https://gi-wish-simulator.uzairashraf.dev/)
+Eventually
+
 
 ## Preview
 
@@ -56,7 +46,7 @@ Try the application live at [https://gi-wish-simulator.uzairashraf.dev/](https:/
     <img src="./doc-images/preview-details.gif">
   </p>
 
-- Wish
+- Gacha
   <p align="center">
     <img src="./doc-images/preview-wish.gif">
   </p>
@@ -68,19 +58,20 @@ Try the application live at [https://gi-wish-simulator.uzairashraf.dev/](https:/
 
 ## Features
 
-- User can wish
+- User can pull for their favorite cards
 - User can view banners
 - User can switch banners
-- User can preserve the banner they wished for
 - User can view inventory
 - User can reset inventory
-- User can filter between characters, weapons, and ratings in inventory
-- User can see estimated money spent in USD
-- User can see wish animation before seeing pulls
-- User can see both 4 and 5 star animation for pulls
+- User can filter between male leads, rarity, and argument type in inventory
+- User can see estimated money spent in USD ($2.77 per pull assuming $100 for 6480 S Chips)
+- User can see wish animation before seeing pulls (regular tear drop for R/SR diamond tear for SSR)
 - User can skip animation
-- User's inventory and attempts persists in local storage
-- User won't sue me (pls)
+- User's inventory persists in local storage
+
+### Future Features
+
+- Maybe for Cathy's birthday I will add user stories and voiced SR cards
 
 ## Development
 
@@ -88,14 +79,20 @@ Try the application live at [https://gi-wish-simulator.uzairashraf.dev/](https:/
 
 - NPM 6 or higher
 - Node 10 or higher
+- Other libraries may be needed for future versions (I will update then)
+
+### Installing Node
+
+- Follow the install guide: https://docs.npmjs.com/downloading-and-installing-node-js-and-npm/
+- I highly recommend using a package manager (I use chocolatey for windows)
 
 #### Getting Started
 
 1. Clone the repository.
 
     ```shell
-    git clone https://github.com/uzair-ashraf/genshin-impact-wish-simulator.git
-    cd genshin-impact-wish-simulator
+    git clone https://github.com/HKrishna31415/tears-of-themis.git
+    cd tears-of-themis
     ```
 
 1. Install all dependencies with NPM.
@@ -144,7 +141,7 @@ Try the application live at [https://gi-wish-simulator.uzairashraf.dev/](https:/
     ```shell
     npm run test
     ```
+## Adding New Banners
 
-#### Contributing
-
-I am welcome to all contributors! Please open an issue when a problem is found and feel free to open a pull request.
+Each banner needs new banner assets, new data models, and new data sources in JSON format. All formatting must
+match existing formatting. E.g. inventory.ml looks at the ml property (short for male lead) in the JSON data source. Not having one available will cause a crash.

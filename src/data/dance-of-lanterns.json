@@ -1,0 +1,39 @@
+[
+  {
+    "name": "How I Remember You",
+    "element": "Pyro",
+    "type": "character",
+    "rating": 4,
+    "id": "3",
+    "percentX": 60,
+    "src": "how-I-remember-you.png"
+  },
+  {
+    "name": "Ferrous Shadow",
+    "rating": 3,
+    "class": "Claymore",
+    "src": "ferrous-shadow.png",
+    "type": "weapon"
+  },
+  {
+    "name": "Skyrider Sword",
+    "rating": 3,
+    "class": "Sword",
+    "src": "skyrider-sword.png",
+    "type": "weapon"
+  },
+  {
+    "name": "Harbinger of Dawn",
+    "rating": 3,
+    "class": "Sword",
+    "src": "harbinger-of-dawn.png",
+    "type": "weapon"
+  },
+  {
+    "name": "Cool Steel",
+    "rating": 3,
+    "class": "Sword",
+    "src": "cool-steel.png",
+    "type": "weapon"
+  }
+]

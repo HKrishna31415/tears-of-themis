@@ -1,0 +1,177 @@
+[
+  {
+    "name": "Faint Light",
+    "rating": 5,
+    "class": "Polearm",
+    "src": "faint-light.png",
+    "isFeatured": true,
+    "type": "weapon",
+    "ml": "Vyn"
+  },
+  {
+    "name": "Wishes Between Day and Night",
+    "rating": 5,
+    "class": "Claymore",
+    "src": "wishes-between-day-and-night.png",
+    "isFeatured": true,
+    "type": "weapon",
+    "ml": "Vyn"
+  },
+  {
+    "name": "Moonlight Chaser",
+    "rating": 5,
+    "type": "weapon",
+    "ml": "Vyn",
+    "class": "Bow",
+    "src": "moonlight-chaser.png"
+  },
+  {
+    "name": "Crackling Flames",
+    "rating": 5,
+    "class": "Bow",
+    "src": "crackling-flames.png",
+    "type": "weapon",
+    "ml": "Vyn"
+  },
+  {
+    "name": "False Tears",
+    "rating": 4,
+    "class": "Bow",
+    "src": "false-tears.png",
+    "isFeatured": true,
+    "type": "weapon",
+    "ml": "Vyn"
+  },
+  {
+    "name": "How I Remember You",
+    "element": "Luke",
+    "type": "character",
+    "rating": 4,
+    "id": "3",
+    "percentX": 60,
+    "src": "how-I-remember-you.png",
+    "ml": "Luke"
+  },
+  {
+    "name": "Fabulous Feast",
+    "element": "Luke",
+    "type": "character",
+    "rating": 4,
+    "id": "4",
+    "percentX": 60,
+    "src": "Tartaglia.png",
+    "ml": "Luke"
+  },
+  {
+    "name": "Reunion",
+    "rating": 3,
+    "class": "Bow",
+    "src": "slingshot.png",
+    "type": "weapon",
+    "ml": "Vyn"
+  },
+  {
+    "name": "Warm Little House",
+    "rating": 3,
+    "class": "Bow",
+    "src": "sharpshooters-oath.png",
+    "type": "weapon",
+    "ml": "Vyn"
+  },
+  {
+    "name": "Warm Up",
+    "rating": 3,
+    "class": "Bow",
+    "src": "raven-bow.png",
+    "type": "weapon",
+    "ml": "Vyn"
+  },
+  {
+    "name": "Interlude",
+    "rating": 3,
+    "type": "weapon",
+    "ml": "Vyn",
+    "class": "Catalyst",
+    "src": "emerald-orb.png"
+  },
+  {
+    "name": "Trying to Fathom",
+    "rating": 3,
+    "class": "Catalyst",
+    "src": "thrilling-tales-of-dragon-slayers.png",
+    "type": "weapon",
+    "ml": "Vyn"
+  },
+  {
+    "name": "Freeze Frame",
+    "rating": 3,
+    "class": "Catalyst",
+    "src": "magic-guide.png",
+    "type": "weapon",
+    "ml": "Vyn"
+  },
+  {
+    "name": "Rain Drops",
+    "rating": 3,
+    "class": "Polearm",
+    "src": "rain-drops.png",
+    "type": "weapon",
+    "ml": "Vyn"
+  },
+  {
+    "name": "All Ready",
+    "rating": 3,
+    "class": "Claymore",
+    "src": "debate-club.png",
+    "type": "weapon",
+    "ml": "Vyn"
+  },
+  {
+    "name": "Leisure Time",
+    "rating": 3,
+    "class": "Claymore",
+    "src": "leisure-time.png",
+    "type": "weapon",
+    "ml": "Vyn"
+  },
+  {
+    "name": "Elegance",
+    "rating": 3,
+    "class": "Claymore",
+    "src": "ferrous-shadow.png",
+    "type": "weapon",
+    "ml": "Vyn"
+  },
+  {
+    "name": "Diversified",
+    "rating": 3,
+    "class": "Sword",
+    "src": "skyrider-sword.png",
+    "type": "weapon",
+    "ml": "Vyn"
+  },
+  {
+    "name": "Heart's Boundary Flight",
+    "rating": 3,
+    "class": "Sword",
+    "src": "harbinger-of-dawn.png",
+    "type": "weapon",
+    "ml": "Vyn"
+  },
+  {
+    "name": "Practice Makes Perfect",
+    "rating": 3,
+    "class": "Sword",
+    "src": "cool-steel.png",
+    "type": "weapon",
+    "ml": "Vyn"
+  },
+  {
+    "name": "Tailored Suit",
+    "rating": 3,
+    "class": "Sword",
+    "src": "tailored-suit.png",
+    "type": "weapon",
+    "ml": "Vyn"
+  }
+]
