@@ -29,46 +29,25 @@ export default function EpitomeInvocationDetails() {
           <DetailsBox
             title={"Faint Light"}
             isWeapon={true}
-            src={"ssr.png"}
+            src={"faint-light.png"}
           />
           <DetailsBox
             title={"Crackling Flames"}
             isWeapon={true}
-            src={"ssr.png"}
+            src={"crackling-flames.png"}
+          />
+          <DetailsBox
+            title={"Moonlight Chaser"}
+            isWeapon={true}
+            src={"moonlight-chaser.png"}
+          />
+          <DetailsBox
+            title={"Wishes Between Day and Night"}
+            isWeapon={true}
+            src={"wishes-between-day-and-night.png"}
           />
         </Row>
-        <StarsBar
-          starCount={4}
-          content="Percentage of SR Card Drops：50.000%"
-          bgColor="#b6abbf"
-        />
-        <Row>
-          <DetailsBox
-            title={"How I Remember You"}
-            isWeapon={true}
-            src={"sr.png"}
-          />
-          <DetailsBox
-            title={"Luke"}
-            isWeapon={true}
-            src={"sr.png"}
-          />
-          <DetailsBox
-            title={"Artem"}
-            isWeapon={true}
-            src={"sr.png"}
-          />
-          <DetailsBox
-            title={"Marius"}
-            isWeapon={true}
-            src={"sr.png"}
-          />
-          <DetailsBox
-            title={"Vyn"}
-            isWeapon={true}
-            src={"sr.png"}
-          />
-        </Row>
+
         <SubheadingSeparator content="Wish Details" />
         <EventDurationHeading content="Limited Time Event" />
         <Row>
@@ -76,6 +55,11 @@ export default function EpitomeInvocationDetails() {
             <p className="my-3">
               "<span className="orange">Secrets of the Tomb</span>" is
               now available. <br />
+              . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+              . . . . . . . . . . . . . . . . . . . . . . .<br />
+              In the real event, each male lead has his own banner. I am combining them into one banner. <br />
+              . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+              . . . . . . . . . . . . . . . . . . . . . . .<br />
 
               1. Tears of Themis are used to obtain Visions (draw cards) from
               this Shadow of Themis. <br />
@@ -88,15 +72,10 @@ export default function EpitomeInvocationDetails() {
               During this event wish, the event-exclusive SSR
               cards{" "}
               <span className="brass">Faint Light (Marius)</span> {" "}
-              or <span className="brass">Crackling Flames (Artem)</span> as well as
-              the SR cards{" "}
-              <span className="purple">How I Remember You (Luke)</span>,{" "}
-              <span className="purple">SR (Artem)</span>,{" "}
-              <span className="purple">SR (Artem)</span>,{" "}
-              <span className="purple">SR (Artem)</span>, and{" "}
-              <span className="purple">SR (Artem)</span> will get a{" "}
-              <span className="orange">huge drop-rate boost</span>!
-              <br />
+              or <span className="brass">Crackling Flames (Artem)</span> {" "}
+              or <span className="brass">Moonlight Chaser (Vyn)</span>{" "}
+              or <span className="brass">Wishes Between Day and Night (Luke)</span> will
+              be available.
             </p>
             <p className="my-3">〓Rules〓</p>
             <p className="my-3">SSR Cards</p>
@@ -108,12 +87,7 @@ export default function EpitomeInvocationDetails() {
             <span className="orange">100</span> attempts. <br />
             There is a{" "}
             <span className="orange">100%</span> chance the SSR will be the
-            promotional SSR{" "}
-            <span className="brass">
-              {" "}
-              <span className="brass">Crackling Flames (Artem)</span>
-            </span>{" "}
-            or <span className="brass">Crackling Flames (Artem)</span>.
+            promotional SSR.
             </p>
             <p className="my-3">SR Cards</p>
             <p className="my-3">
@@ -122,14 +96,7 @@ export default function EpitomeInvocationDetails() {
             <span className="orange">11.740%</span>; base probability of
             winning any specific SR character = <span className="orange">0.419%</span>,
             <br />
-            The first time you win an SR card in this event wish, there is
-            a <span className="orange">50%</span> chance that it will be one
-            of the featured cards:{" "}
-            <span className="purple">Fixated on You (Artem)</span>,{"   "}
-            <span className="purple">Fixated on You (Artem)</span>,{" "}
-            <span className="purple">Fixated on You (Artem)</span>,{" "}
-            <span className="purple">Fixated on You (Artem)</span>, and{" "}
-            <span className="purple">Fixated on You (Artem)</span>.
+            
             </p>
             <p className="my-3">
             SSR characters won come with{" "}

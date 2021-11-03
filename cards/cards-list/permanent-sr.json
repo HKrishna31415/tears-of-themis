@@ -1,0 +1,164 @@
+[
+  {
+      "name":  "Among the Great Blue",
+      "type": "INTUITION",
+      "rarity": 4,
+      "ml": "LUKE",
+      "influence": 1504,
+      "defense": 871,
+      "src":
+  },
+  {
+      "name": "Radiant Sunlight",
+      "type": "INTUITION",
+      "rarity": 4,
+      "ml": "LUKE",
+      "influence": 1583,
+      "defense": 791,
+      "src":
+  },
+  {
+      "name": "Moment of Danger",
+      "type": "EMPATHY",
+      "rarity": 4,
+      "ml": "LUKE",
+      "influence": 1662,
+      "defense": 712,
+      "src":
+  },
+  {
+      "name": "Timely Rescue",
+      "type": "LOGIC",
+      "rarity": 4,
+      "ml": "LUKE",
+      "influence": 1662,
+      "defense": 712,
+      "src":
+  },
+  {
+      "name": "Inner Sanctum",
+      "type": "EMPATHY",
+      "rarity": 4,
+      "ml": "LUKE",
+      "influence": 1630,
+      "defense": 744,
+      "src":
+  },
+  {
+      "name": "Sparks",
+      "type": "INTUITION",
+      "rarity": 4,
+      "ml": "ARTEM",
+      "influence": 1662,
+      "defense": 713,
+      "src":
+  },
+  {
+      "name": "Autumn Dreams",
+      "type": "LOGIC",
+      "rarity": 4,
+      "ml": "ARTEM",
+      "influence": 1630,
+      "defense": 744,
+      "src":
+  },
+  {
+      "name": "In Sickness or in Health",
+      "type": "EMPATHY",
+      "rarity": 4,
+      "ml": "ARTEM",
+      "influence": 1535,
+      "defense": 838,
+      "src":
+  },
+  {
+      "name": "Focus Fire",
+      "type": "LOGIC",
+      "rarity": 4,
+      "ml": "ARTEM",
+      "influence": 1536,
+      "defense": 839,
+      "src":
+  },
+  {
+      "name": "False Tears",
+      "type": "EMPATHY",
+      "rarity": 4,
+      "ml": "VYN",
+      "influence": 1504,
+      "defense": 871,
+      "src":
+  },
+  {
+      "name": "Lingering Warmth",
+      "type": "LOGIC",
+      "rarity": 4,
+      "ml": "VYN",
+      "influence": 1662,
+      "defense": 712,
+      "src":
+  },
+  {
+      "name": "Mercury in Retrograde",
+      "type": "INTUITION",
+      "rarity": 4,
+      "ml": "VYN",
+      "influence": 1535,
+      "defense": 838,
+      "src":
+  },
+  {
+      "name": "Mended Heart",
+      "type": "EMPATHY",
+      "rarity": 4,
+      "ml": "VYN",
+      "influence": 1583,
+      "defense": 792,
+      "src":
+  },
+  {
+      "name": "Gentleman's Game",
+      "type": "INTUITION",
+      "rarity": 4,
+      "ml": "VYN",
+      "influence": 1630,
+      "defense": 744,
+      "src":
+  },
+  {
+      "name": "Child at Heart",
+      "type": "INTUITION",
+      "rarity": 4,
+      "ml": "MARIUS",
+      "influence": 1536,
+      "defense": 839,
+      "src":
+  },
+  {
+      "name": "Overtone",
+      "type": "EMPATHY",
+      "rarity": 4,
+      "ml": "MARIUS",
+      "influence": 1504,
+      "defense": 871,
+      "src":
+  },
+  {
+      "name": "Dream of Thebes",
+      "type": "LOGIC",
+      "rarity": 4,
+      "ml": "MARIUS",
+      "influence": 1630,
+      "defense": 744,
+      "src":
+  },
+  {
+      "name": "A Dance on the Clouds",
+      "type": "LOGIC",
+      "rarity": 4,
+      "ml": "MARIUS",
+      "influence": 1582,
+      "defense": 791,
+      "src":
+  }
+]

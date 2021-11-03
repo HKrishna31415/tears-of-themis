@@ -1,0 +1,900 @@
+[
+  {
+      "name":  "Among the Great Blue",
+      "type": "INTUITION",
+      "rarity": 4,
+      "ml": "LUKE",
+      "influence": 1504,
+      "defense": 871,
+      "src":
+  },
+  {
+      "name": "Radiant Sunlight",
+      "type": "INTUITION",
+      "rarity": 4,
+      "ml": "LUKE",
+      "influence": 1583,
+      "defense": 791,
+      "src":
+  },
+  {
+
+      "name": "Moment of Danger",
+      "type": "EMPATHY",
+      "rarity": 4,
+      "ml": "LUKE",
+      "influence": 1662,
+      "defense": 712,
+      "src":
+  },
+  {
+
+      "name": "Timely Rescue",
+      "type": "LOGIC",
+      "rarity": 4,
+      "ml": "LUKE",
+      "influence": 1662,
+      "defense": 712,
+      "src":
+  },
+  {
+
+      "name": "Inner Sanctum",
+      "type": "EMPATHY",
+      "rarity": 4,
+      "ml": "LUKE",
+      "influence": 1630,
+      "defense": 744,
+      "src":
+  },
+  {
+
+      "name": "Once Upon a Time",
+      "type": "LOGIC",
+      "rarity": 4,
+      "ml": "LUKE",
+      "influence": 1583,
+      "defense": 791,
+      "src":
+  },
+  {
+      "name": "Together with You",
+      "type": "LOGIC",
+      "rarity": 4,
+      "ml": "LUKE",
+      "influence": 1504,
+      "defense": 871,
+      "src":
+  },
+  {
+      "name": "How I Remember You",
+      "type": "INTUITION",
+      "rarity": 4,
+      "ml": "LUKE",
+      "influence": 1630,
+      "defense": 744,
+      "src":
+  },
+  {
+      "name": "Light In Palms"
+      "type": "EMPATHY",
+      "rarity": 4,
+      "ml": "LUKE",
+      "influence": 1662,
+      "defense": 712,
+      "src":
+  },
+  {
+
+      "name": "Sparks",
+      "type": "INTUITION",
+      "rarity": 4,
+      "ml": "ARTEM",
+      "influence": 1662,
+      "defense": 713,
+      "src":
+  },
+  {
+
+      "name": {
+
+          "en": "Autumn Dreams",
+
+      },
+      "type": "LOGIC",
+      "rarity": 4,
+      "ml": "ARTEM",
+      "skills": [
+          "以理服人β Ⅱ",
+          "律法全能 Ⅱ",
+          "引譬连类 Ⅱ"
+      ],
+      "influence": 1630,
+      "defense": 744,
+      "src":
+
+
+      ]
+  },
+  {
+
+      "name": {
+
+          "en": "In Sickness or in Health",
+
+      },
+      "type": "EMPATHY",
+      "rarity": 4,
+      "ml": "ARTEM",
+      "skills": [
+          "循循善诱β Ⅱ",
+          "情感投射 Ⅱ",
+          "顺水推舟 Ⅱ"
+      ],
+      "influence": 1535,
+      "defense": 838,
+      "src":
+
+
+      ]
+  },
+  {
+
+      "name": {
+
+          "en": "Focus Fire",
+
+      },
+      "type": "LOGIC",
+      "rarity": 4,
+      "ml": "ARTEM",
+      "skills": [
+          "先声夺势 Ⅱ",
+          "张弛有度 Ⅱ",
+          "纵横捭阖 Ⅱ"
+      ],
+      "influence": 1536,
+      "defense": 839,
+      "src":
+          "PERMENENT"
+      ]
+  },
+  {
+
+      "name": {
+
+          "en": "Staying Humble",
+
+      },
+      "type": "EMPATHY",
+      "rarity": 4,
+      "ml": "ARTEM",
+      "skills": [
+          "以退为进γ Ⅱ",
+          "举一反三 Ⅱ",
+          "击其薄弱 Ⅱ"
+      ],
+      "influence": 1583,
+      "defense": 792,
+      "src":
+
+          "CARD-FRAGMENT"
+      ]
+  },
+  {
+
+      "name": {
+
+          "en": "Darkest before Dawn",
+
+      },
+      "type": "INTUITION",
+      "rarity": 4,
+      "ml": "ARTEM",
+      "skills": [
+          "避实就虚β Ⅱ",
+          "预见之明 Ⅱ",
+          "正本清源 Ⅱ"
+      ],
+      "influence": 1504,
+      "defense": 871,
+      "src":
+
+          "CARD-FRAGMENT"
+      ]
+  },
+  {
+
+      "name": {
+
+          "en": "Thin Veil",
+
+      },
+      "type": "INTUITION",
+      "rarity": 4,
+      "ml": "ARTEM",
+      "skills": [
+          "洞察秋毫γ Ⅱ",
+          "敏锐观察 Ⅱ",
+          "锐辞庭辩 Ⅱ"
+      ],
+      "influence": 1583,
+      "defense": 792,
+      "src":
+          "CHARGE"
+      ]
+  },
+  {
+
+      "name": "Fixated on You",
+      "type": "LOGIC",
+      "rarity": 4,
+      "ml": "ARTEM",
+      "influence": 1662,
+      "defense": 712,
+      "src":
+
+
+      ]
+  },
+  {
+
+      "name": "Make a Choice"
+      "type": "EMPATHY",
+      "rarity": 4,
+      "ml": "ARTEM",
+      "influence": 1630,
+      "defense": 744,
+      "src":
+  },
+  {
+
+      "name": "Victorious Ball",
+      "type": "LOGIC",
+      "rarity": 4,
+      "ml": "ARTEM",
+      "influence": 1504,
+      "defense": 871,
+      "src":
+  },
+  {
+
+      "name": {
+
+          "en": "False Tears",
+
+      },
+      "type": "EMPATHY",
+      "rarity": 4,
+      "ml": "VYN",
+      "skills": [
+          "循循善诱γ Ⅱ",
+          "盛装舞步 Ⅱ",
+          "釜底抽薪 Ⅱ"
+      ],
+      "influence": 1504,
+      "defense": 871,
+      "src":
+
+
+      ]
+  },
+  {
+
+      "name": {
+
+          "en": "Lingering Warmth",
+
+      },
+      "type": "LOGIC",
+      "rarity": 4,
+      "ml": "VYN",
+      "skills": [
+          "以理服人β Ⅱ",
+          "无懈可击 Ⅱ",
+          "纵横捭阖 Ⅱ"
+      ],
+      "influence": 1662,
+      "defense": 712,
+      "src":
+
+
+      ]
+  },
+  {
+
+      "name": {
+
+          "en": "Mercury in Retrograde",
+
+      },
+      "type": "INTUITION",
+      "rarity": 4,
+      "ml": "VYN",
+      "skills": [
+          "洞察秋毫α Ⅱ",
+          "敏锐观察 Ⅱ",
+          "攻势化解 Ⅱ"
+      ],
+      "influence": 1535,
+      "defense": 838,
+      "src":
+
+
+      ]
+  },
+  {
+
+      "name": {
+
+          "en": "Mended Heart",
+
+      },
+      "type": "EMPATHY",
+      "rarity": 4,
+      "ml": "VYN",
+      "skills": [
+          "层层深入γ Ⅱ",
+          "情绪感染 Ⅱ",
+          "釜底抽薪 Ⅱ"
+      ],
+      "influence": 1583,
+      "defense": 792,
+      "src":
+
+
+      ]
+  },
+  {
+
+      "name": {
+
+          "en": "Gentleman's Game",
+
+      },
+      "type": "INTUITION",
+      "rarity": 4,
+      "ml": "VYN",
+      "skills": [
+          "先声夺势 Ⅱ",
+          "张弛有度 Ⅱ",
+          "防微虑远 Ⅱ"
+      ],
+      "influence": 1630,
+      "defense": 744,
+      "src":
+          "PERMENENT"
+      ]
+  },
+  {
+
+      "name": {
+
+          "en": "Spilling Light",
+
+      },
+      "type": "LOGIC",
+      "rarity": 4,
+      "ml": "VYN",
+      "skills": [
+          "设问否定γ Ⅱ",
+          "演绎推理 Ⅱ",
+          "滴水不漏 Ⅱ"
+      ],
+      "influence": 1583,
+      "defense": 792,
+      "src":
+
+          "CARD-FRAGMENT"
+      ]
+  },
+  {
+
+      "name": {
+
+          "en": "Cool Summer",
+
+      },
+      "type": "LOGIC",
+      "rarity": 4,
+      "ml": "VYN",
+      "skills": [
+          "先声夺势 Ⅱ",
+          "演绎推理 Ⅱ",
+          "引譬连类 Ⅱ"
+      ],
+      "influence": 1503,
+      "defense": 870,
+      "src":
+
+
+      ]
+  },
+  {
+
+      "name": {
+
+          "en": "Entrapped"
+      },
+      "type": "EMPATHY",
+      "rarity": 4,
+      "ml": "VYN",
+      "skills": [
+          "循循善诱α Ⅱ",
+          "顺水推舟 Ⅱ",
+          "谈话引导 Ⅱ"
+      ],
+      "influence": 1630,
+      "defense": 744,
+      "src":
+
+          "CARD-FRAGMENT"
+      ]
+  },
+  {
+      "name": "Snowy Pine Fairytales",
+      "type": "INTUITION",
+      "rarity": 4,
+      "ml": "VYN",
+      "influence": 1662,
+      "defense": 712,
+      "src":
+  },
+  {
+
+      "name": {
+
+          "en": "Child at Heart",
+
+      },
+      "type": "INTUITION",
+      "rarity": 4,
+      "ml": "MARIUS",
+      "skills": [
+          "洞察秋毫β Ⅱ",
+          "敏锐观察 Ⅱ",
+          "防微虑远 Ⅱ"
+      ],
+      "influence": 1536,
+      "defense": 839,
+      "src":
+
+
+      ]
+  },
+  {
+
+      "name": {
+
+          "en": "Overtone",
+
+      },
+      "type": "EMPATHY",
+      "rarity": 4,
+      "ml": "MARIUS",
+      "skills": [
+          "循循善诱β Ⅱ",
+          "年少锋锐 Ⅱ",
+          "击其薄弱 Ⅱ"
+      ],
+      "influence": 1504,
+      "defense": 871,
+      "src":
+
+
+      ]
+  },
+  {
+      ,
+      "name": {
+
+          "en": "Dream of Thebes",
+
+      },
+      "type": "LOGIC",
+      "rarity": 4,
+      "ml": "MARIUS",
+      "skills": [
+          "以退为进γ Ⅱ",
+          "演绎推理 Ⅱ",
+          "滴水不漏 Ⅱ"
+      ],
+      "influence": 1630,
+      "defense": 744,
+      "src":
+
+
+      ]
+  },
+  {
+
+      "name": {
+
+          "en": "A Dance on the Clouds",
+
+      },
+      "type": "LOGIC",
+      "rarity": 4,
+      "ml": "MARIUS",
+      "skills": [
+          "以理服人β Ⅱ",
+          "张弛有度 Ⅱ",
+          "引譬连类 Ⅱ"
+      ],
+      "influence": 1582,
+      "defense": 791,
+      "src":
+          "PERMENENT"
+      ]
+  },
+  {
+
+      "name": {
+
+          "en": "Butterflies",
+
+      },
+      "type": "INTUITION",
+      "rarity": 4,
+      "ml": "MARIUS",
+      "skills": [
+          "先声夺势 Ⅱ",
+          "举一反三 Ⅱ",
+          "见微知著 Ⅱ"
+      ],
+      "influence": 1662,
+      "defense": 712,
+      "src":
+
+          "CARD-FRAGMENT"
+      ]
+  },
+  {
+
+      "name": {
+
+          "en": "Falling into You",
+
+      },
+      "type": "EMPATHY",
+      "rarity": 4,
+      "ml": "MARIUS",
+      "skills": [
+          "引申归谬γ Ⅱ",
+          "情绪感染 Ⅱ",
+          "排比增势 Ⅱ"
+      ],
+      "influence": 1582,
+      "defense": 791,
+      "src":
+
+          "CARD-FRAGMENT"
+      ]
+  },
+  {
+
+      "name": {
+
+          "en": "Twilight Beauty",
+
+      },
+      "type": "EMPATHY",
+      "rarity": 4,
+      "ml": "MARIUS",
+      "skills": [
+          "层层深入γ Ⅱ",
+          "还施彼身 Ⅱ",
+          "釜底抽薪 Ⅱ"
+      ],
+      "influence": 1662,
+      "defense": 712,
+      "src":
+
+      ]
+  },
+  {
+
+      "name": "Wild Dazzling Graffiti",
+      "type": "LOGIC",
+      "rarity": 4,
+      "ml": "MARIUS",
+      "influence": 1536,
+      "defense": 839,
+      "src":
+  },
+  {
+
+      "name": "Under Silence",
+      "type": "INTUITION",
+      "rarity": 4,
+      "ml": "MARIUS",
+      "influence": 1503,
+      "defense": 870,
+      "src":
+  },
+  {
+
+      "name": {
+
+      },
+      "type": "LOGIC",
+      "rarity": "MR",
+      "ml": "LUKE",
+      "skills": [
+          "先声夺势 Ⅱ",
+          "无懈可击 Ⅱ",
+          "侦探头脑 Ⅱ"
+      ],
+      "influence": 1637,
+      "defense": 895,
+      "src":
+
+      ]
+  },
+  {
+
+      "name": {
+
+      },
+      "type": "INTUITION",
+      "rarity": "MR",
+      "ml": "LUKE",
+      "skills": [
+          "层层深入γ Ⅱ",
+          "直感思维 Ⅱ",
+          "紧急避险 Ⅱ"
+      ],
+      "influence": 1658,
+      "defense": 829,
+      "src":
+
+      ]
+  },
+  {
+
+      "name": {
+
+      },
+      "type": "LOGIC",
+      "rarity": "MR",
+      "ml": "LUKE",
+      "skills": [
+          "先声夺势 Ⅱ",
+          "真相还原 Ⅱ",
+          "滴水不漏 Ⅱ"
+      ],
+      "influence": 1637,
+      "defense": 895,
+      "src":
+
+      ]
+  },
+  {
+
+      "name": {
+
+      },
+      "type": "EMPATHY",
+      "rarity": "MR",
+      "ml": "LUKE",
+      "skills": [
+          "层层深入β Ⅱ",
+          "情感投射 Ⅱ",
+          "紧急避险 Ⅱ"
+      ],
+      "influence": 1658,
+      "defense": 829,
+      "src":
+
+      ]
+  },
+  {
+
+      "name": {
+
+      },
+      "type": "INTUITION",
+      "rarity": "MR",
+      "ml": "ARTEM",
+      "skills": [
+          "先声夺势 Ⅱ",
+          "预见之明 Ⅱ",
+          "锐辞庭辩 Ⅱ"
+      ],
+      "influence": 1637,
+      "defense": 895,
+      "src":
+
+      ]
+  },
+  {
+
+      "name": {
+
+      },
+      "type": "EMPATHY",
+      "rarity": "MR",
+      "ml": "ARTEM",
+      "skills": [
+          "层层深入β Ⅱ",
+          "律法全能 Ⅱ",
+          "排比增势 Ⅱ"
+      ],
+      "influence": 1637,
+      "defense": 895,
+      "src":
+
+      ]
+  },
+  {
+
+      "name": {
+
+      },
+      "type": "LOGIC",
+      "rarity": "MR",
+      "ml": "ARTEM",
+      "skills": [
+          "层层深入γ Ⅱ",
+          "抽丝剥茧 Ⅱ",
+          "绝对理性 Ⅱ"
+      ],
+      "influence": 1658,
+      "defense": 829,
+      "src":
+
+      ]
+  },
+  {
+
+      "name": {
+
+      },
+      "type": "EMPATHY",
+      "rarity": "MR",
+      "ml": "ARTEM",
+      "skills": [
+          "层层深入β Ⅱ",
+          "情感投射 Ⅱ",
+          "绝对理性 Ⅱ"
+      ],
+      "influence": 1658,
+      "defense": 829,
+      "src":
+
+      ]
+  },
+  {
+
+      "name": {
+
+      },
+      "type": "EMPATHY",
+      "rarity": "MR",
+      "ml": "VYN",
+      "skills": [
+          "先声夺势 Ⅱ",
+          "还施彼身 Ⅱ",
+          "人格侧写 Ⅱ"
+      ],
+      "influence": 1637,
+      "defense": 895,
+      "src":
+
+      ]
+  },
+  {
+
+      "name": {
+
+      },
+      "type": "LOGIC",
+      "rarity": "MR",
+      "ml": "VYN",
+      "skills": [
+          "层层深入β Ⅱ",
+          "盛装舞步 Ⅱ",
+          "滴水不漏 Ⅱ"
+      ],
+      "influence": 1637,
+      "defense": 895,
+      "src":
+
+      ]
+  },
+  {
+
+      "name": {
+
+      },
+      "type": "INTUITION",
+      "rarity": "MR",
+      "ml": "VYN",
+      "skills": [
+          "层层深入γ Ⅱ",
+          "直感思维 Ⅱ",
+          "箱庭疗法 Ⅱ"
+      ],
+      "influence": 1658,
+      "defense": 829,
+      "src":
+
+      ]
+  },
+  {
+
+      "name": {
+
+      },
+      "type": "LOGIC",
+      "rarity": "MR",
+      "ml": "VYN",
+      "skills": [
+          "层层深入β Ⅱ",
+          "抽丝剥茧 Ⅱ",
+          "箱庭疗法 Ⅱ"
+      ],
+      "influence": 1658,
+      "defense": 829,
+      "src":
+
+      ]
+  },
+  {
+
+      "name": {
+
+      },
+      "type": "INTUITION",
+      "rarity": "MR",
+      "ml": "MARIUS",
+      "skills": [
+          "先声夺势 Ⅱ",
+          "预见之明 Ⅱ",
+          "商业谈判 Ⅱ"
+      ],
+      "influence": 1637,
+      "defense": 895,
+      "src":
+
+      ]
+  },
+  {
+
+      "name": {
+
+      },
+      "type": "EMPATHY",
+      "rarity": "MR",
+      "ml": "MARIUS",
+      "skills": [
+          "层层深入γ Ⅱ",
+          "情感投射 Ⅱ",
+          "执行总裁 Ⅱ"
+      ],
+      "influence": 1658,
+      "defense": 829,
+      "src":
+
+      ]
+  },
+  {
+
+      "name": {
+
+      },
+      "type": "INTUITION",
+      "rarity": "MR",
+      "ml": "MARIUS",
+      "skills": [
+          "层层深入β Ⅱ",
+          "直感思维 Ⅱ",
+          "执行总裁 Ⅱ"
+      ],
+      "influence": 1658,
+      "defense": 829,
+      "src":
+
+      ]
+  }
+]

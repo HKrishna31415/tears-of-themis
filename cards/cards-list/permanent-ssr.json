@@ -1,0 +1,77 @@
+[
+    {
+        "name": "Perfect Partner",
+        "type": "LOGIC",
+        "rarity": 5,
+        "ml": "LUKE",
+        "influence": 2014,
+        "defense": 1166,
+        "src": "tailored-suit.png"
+    },
+    {
+
+        "name": "Alluring Gaze",
+        "type": "EMPATHY",
+        "rarity": 5,
+        "ml": "LUKE",
+        "influence": 2056,
+        "defense": 1124,
+        "src": "tailored-suit.png"
+    },
+    {
+
+        "name": "Loving Memories",
+        "type": "INTUITION",
+        "rarity": 5,
+        "ml": "ARTEM",
+        "influence": 2014,
+        "defense": 1166,
+        "src":
+    },
+    {
+
+        "name": "Atmospherics",
+        "type": "LOGIC",
+        "rarity": 5,
+        "ml": "ARTEM",
+        "influence": 2056,
+        "defense": 1124,
+        "src":
+    },
+    {
+        "name": "Near and Far",
+        "type": "INTUITION",
+        "rarity": 5,
+        "ml": "VYN",
+        "influence": 2014,
+        "defense": 1166,
+        "src":
+    },
+    {
+        "name": "Medieval Suspense",
+        "type": "EMPATHY",
+        "rarity": 5,
+        "ml": "VYN",
+        "influence": 2056,
+        "defense": 1124,
+        "src":
+    },
+    {
+        "name": "Narrow Road",
+        "type": "EMPATHY",
+        "rarity": 5,
+        "ml": "MARIUS",
+        "influence": 2014,
+        "defense": 1166,
+        "src":
+    },
+    {
+        "name": "Eye of the Beholder",
+        "type": "INTUITION",
+        "rarity": 5,
+        "ml": "MARIUS",
+        "influence": 2056,
+        "defense": 1124,
+        "src":
+    }
+]

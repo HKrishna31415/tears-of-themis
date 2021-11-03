@@ -1,0 +1,527 @@
+[
+    {
+        "name": "Perfect Partner",
+        "type": "LOGIC",
+        "rarity": 5,
+        "ml": "LUKE",
+        "influence": 2014,
+        "defense": 1166,
+        "src": 
+    },
+    {
+
+        "name": "Alluring Gaze",
+        "type": "EMPATHY",
+        "rarity": 5,
+        "ml": "LUKE",
+        "influence": 2056,
+        "defense": 1124,
+        "src": "tailored-suit.png"
+    },
+    {
+
+        "name": "Loving Memories",
+        "type": "INTUITION",
+        "rarity": 5,
+        "ml": "ARTEM",
+        "influence": 2014,
+        "defense": 1166,
+        "src":
+    },
+    {
+
+        "name": "Atmospherics",
+        "type": "LOGIC",
+        "rarity": 5,
+        "ml": "ARTEM",
+        "influence": 2056,
+        "defense": 1124,
+        "src":
+    },
+    {
+        "name": "Near and Far",
+        "type": "INTUITION",
+        "rarity": 5,
+        "ml": "VYN",
+        "influence": 2014,
+        "defense": 1166,
+        "src":
+    },
+    {
+        "name": "Medieval Suspense",
+        "type": "EMPATHY",
+        "rarity": 5,
+        "ml": "VYN",
+        "influence": 2056,
+        "defense": 1124,
+        "src":
+    },
+    {
+        "name": "Narrow Road",
+        "type": "EMPATHY",
+        "rarity": 5,
+        "ml": "MARIUS",
+        "influence": 2014,
+        "defense": 1166,
+        "src":
+    },
+    {
+        "name": "Eye of the Beholder",
+        "type": "INTUITION",
+        "rarity": 5,
+        "ml": "MARIUS",
+        "influence": 2056,
+        "defense": 1124,
+        "src":
+    },
+    {
+        "name":  "Among the Great Blue",
+        "type": "INTUITION",
+        "rarity": 4,
+        "ml": "LUKE",
+        "influence": 1504,
+        "defense": 871,
+        "src":
+    },
+    {
+        "name": "Radiant Sunlight",
+        "type": "INTUITION",
+        "rarity": 4,
+        "ml": "LUKE",
+        "influence": 1583,
+        "defense": 791,
+        "src":
+    },
+    {
+        "name": "Moment of Danger",
+        "type": "EMPATHY",
+        "rarity": 4,
+        "ml": "LUKE",
+        "influence": 1662,
+        "defense": 712,
+        "src":
+    },
+    {
+        "name": "Timely Rescue",
+        "type": "LOGIC",
+        "rarity": 4,
+        "ml": "LUKE",
+        "influence": 1662,
+        "defense": 712,
+        "src":
+    },
+    {
+        "name": "Inner Sanctum",
+        "type": "EMPATHY",
+        "rarity": 4,
+        "ml": "LUKE",
+        "influence": 1630,
+        "defense": 744,
+        "src":
+    },
+    {
+        "name": "Sparks",
+        "type": "INTUITION",
+        "rarity": 4,
+        "ml": "ARTEM",
+        "influence": 1662,
+        "defense": 713,
+        "src":
+    },
+    {
+        "name": "Autumn Dreams",
+        "type": "LOGIC",
+        "rarity": 4,
+        "ml": "ARTEM",
+        "influence": 1630,
+        "defense": 744,
+        "src":
+    },
+    {
+        "name": "In Sickness or in Health",
+        "type": "EMPATHY",
+        "rarity": 4,
+        "ml": "ARTEM",
+        "influence": 1535,
+        "defense": 838,
+        "src":
+    },
+    {
+        "name": "Focus Fire",
+        "type": "LOGIC",
+        "rarity": 4,
+        "ml": "ARTEM",
+        "influence": 1536,
+        "defense": 839,
+        "src":
+    },
+    {
+        "name": "False Tears",
+        "type": "EMPATHY",
+        "rarity": 4,
+        "ml": "VYN",
+        "influence": 1504,
+        "defense": 871,
+        "src":
+    },
+    {
+        "name": "Lingering Warmth",
+        "type": "LOGIC",
+        "rarity": 4,
+        "ml": "VYN",
+        "influence": 1662,
+        "defense": 712,
+        "src":
+    },
+    {
+        "name": "Mercury in Retrograde",
+        "type": "INTUITION",
+        "rarity": 4,
+        "ml": "VYN",
+        "influence": 1535,
+        "defense": 838,
+        "src":
+    },
+    {
+        "name": "Mended Heart",
+        "type": "EMPATHY",
+        "rarity": 4,
+        "ml": "VYN",
+        "influence": 1583,
+        "defense": 792,
+        "src":
+    },
+    {
+        "name": "Gentleman's Game",
+        "type": "INTUITION",
+        "rarity": 4,
+        "ml": "VYN",
+        "influence": 1630,
+        "defense": 744,
+        "src":
+    },
+    {
+        "name": "Child at Heart",
+        "type": "INTUITION",
+        "rarity": 4,
+        "ml": "MARIUS",
+        "influence": 1536,
+        "defense": 839,
+        "src":
+    },
+    {
+        "name": "Overtone",
+        "type": "EMPATHY",
+        "rarity": 4,
+        "ml": "MARIUS",
+        "influence": 1504,
+        "defense": 871,
+        "src":
+    },
+    {
+        "name": "Dream of Thebes",
+        "type": "LOGIC",
+        "rarity": 4,
+        "ml": "MARIUS",
+        "influence": 1630,
+        "defense": 744,
+        "src":
+    },
+    {
+        "name": "A Dance on the Clouds",
+        "type": "LOGIC",
+        "rarity": 4,
+        "ml": "MARIUS",
+        "influence": 1582,
+        "defense": 791,
+        "src":
+    },
+    {
+        "name": "Personal Server",
+        "type": "EMPATHY",
+        "rarity": 3,
+        "ml": "LUKE",
+        "influence": 879,
+        "defense": 480,
+        "src":
+    },
+    {
+        "name": "Partner",
+        "type": "EMPATHY",
+        "rarity": 3,
+        "ml": "LUKE",
+        "influence": 879,
+        "defense": 480,
+        "src":
+    },
+    {
+        "name": "Waiting for You",
+        "type": "EMPATHY",
+        "rarity": 3,
+        "ml": "LUKE",
+        "influence": 879,
+        "defense": 480,
+        "src":
+    },
+    {
+        "name": "Gourmet",
+        "type": "LOGIC",
+        "rarity": 3,
+        "ml": "LUKE",
+        "influence": 879,
+        "defense": 480,
+        "src":
+    },
+    {
+        "name": "Our Secret",
+        "type": "LOGIC",
+        "rarity": 3,
+        "ml": "LUKE",
+        "influence": 879,
+        "defense": 480,
+        "src":
+    },
+    {
+        "name": "Greetings",
+        "type": "INTUITION",
+        "rarity": 3,
+        "ml": "LUKE",
+        "influence": 879,
+        "defense": 480,
+        "src":
+    },
+    {
+        "name": "Tiredness",
+        "type": "INTUITION",
+        "rarity": 3,
+        "ml": "LUKE",
+        "influence": 879,
+        "defense": 480,
+        "src":
+    },
+    {
+        "name": "Warm Up",
+        "type": "INTUITION",
+        "rarity": 3,
+        "ml": "LUKE",
+        "influence": 879,
+        "defense": 480,
+        "src":
+    },
+    {
+        "name": "Tailored Suit",
+        "type": "LOGIC",
+        "rarity": 3,
+        "ml": "ARTEM",
+        "influence": 879,
+        "defense": 480,
+        "src":
+    },
+    {
+        "name": "Rain Drops",
+        "type": "LOGIC",
+        "rarity": 3,
+        "ml": "ARTEM",
+        "influence": 879,
+        "defense": 480,
+        "src":
+    },
+    {
+        "name": "Questioning",
+        "type": "LOGIC",
+        "rarity": 3,
+        "ml": "ARTEM",
+        "influence": 879,
+        "defense": 480,
+        "src":
+    },
+    {
+        "name": "Picking a Gift",
+        "type": "EMPATHY",
+        "rarity": 3,
+        "ml": "ARTEM",
+        "influence": 879,
+        "defense": 480,
+        "src":
+    },
+    {
+        "name": "Taking a Breather",
+        "type": "EMPATHY",
+        "rarity": 3,
+        "ml": "ARTEM",
+        "influence": 879,
+        "defense": 480,
+        "src":
+    },
+    {
+        "name": "Back to Business",
+        "type": "EMPATHY",
+        "rarity": 3,
+        "ml": "ARTEM",
+        "influence": 879,
+        "defense": 480,
+        "src":
+    },
+    {
+        "name": "Patience Is a Virtue",
+        "type": "INTUITION",
+        "rarity": 3,
+        "ml": "ARTEM",
+        "influence": 879,
+        "defense": 480,
+        "src":
+    },
+    {
+        "name": "Lock and Load",
+        "type": "INTUITION",
+        "rarity": 3,
+        "ml": "ARTEM",
+        "influence": 879,
+        "defense": 480,
+        "src":
+    },
+    {
+        "name": "Elegance",
+        "type": "EMPATHY",
+        "rarity": 3,
+        "ml": "VYN",
+        "influence": 879,
+        "defense": 480,
+        "src":
+    },
+    {
+        "name": "Remaining in Control",
+        "type": "EMPATHY",
+        "rarity": 3,
+        "ml": "VYN",
+        "influence": 879,
+        "defense": 480,
+        "src":
+    },
+    {
+        "name": "Observations",
+        "type": "LOGIC",
+        "rarity": 3,
+        "ml": "VYN",
+        "influence": 879,
+        "defense": 480,
+        "src":
+    },
+    {
+        "name": "A Hobby of Mine",
+        "type": "LOGIC",
+        "rarity": 3,
+        "ml": "VYN",
+        "influence": 879,
+        "defense": 480,
+        "src":
+    },
+    {
+        "name": "Leisure Time",
+        "type": "INTUITION",
+        "rarity": 3,
+        "ml": "VYN",
+        "influence": 879,
+        "defense": 480,
+        "src":
+    },
+    {
+        "name": "Unexpected Letter",
+        "type": "INTUITION",
+        "rarity": 3,
+        "ml": "VYN",
+        "influence": 879,
+        "defense": 480,
+        "src":
+    },
+    {
+        "name": "Unexpected Run-In",
+        "type": "INTUITION",
+        "rarity": 3,
+        "ml": "VYN",
+        "influence": 879,
+        "defense": 480,
+        "src":
+    },
+    {
+        "name": "Gentlemanly Courtesy",
+        "type": "LOGIC",
+        "rarity": 3,
+        "ml": "VYN",
+        "influence": 879,
+        "defense": 480,
+        "src":
+    },
+    {
+        "name": "Interlude",
+        "type": "EMPATHY",
+        "rarity": 3,
+        "ml": "MARIUS",
+        "influence": 879,
+        "defense": 480,
+        "src":
+    },
+    {
+        "name": "Invitation",
+        "type": "EMPATHY",
+        "rarity": 3,
+        "ml": "MARIUS",
+        "influence": 879,
+        "defense": 480,
+        "src":
+    },
+    {
+        "name": "Half-Time",
+        "type": "EMPATHY",
+        "rarity": 3,
+        "ml": "MARIUS",
+        "influence": 879,
+        "defense": 480,
+        "src":
+    },
+    {
+        "name": "Discussion",
+        "type": "LOGIC",
+        "rarity": 3,
+        "ml": "MARIUS",
+        "influence": 879,
+        "defense": 480,
+        "src":
+    },
+    {
+        "name": "Rhythm",
+        "type": "LOGIC",
+        "rarity": 3,
+        "ml": "MARIUS",
+        "influence": 879,
+        "defense": 480,
+        "src":
+    },
+    {
+        "name": "Fully Prepped",
+        "type": "LOGIC",
+        "rarity": 3,
+        "ml": "MARIUS",
+        "influence": 879,
+        "defense": 480,
+        "src":
+    },
+    {
+        "name": "Sudden Occurence",
+        "type": "INTUITION",
+        "rarity": 3,
+        "ml": "MARIUS",
+        "influence": 879,
+        "defense": 480,
+        "src":
+    },
+    {
+        "name": "Presence",
+        "type": "INTUITION",
+        "rarity": 3,
+        "ml": "MARIUS",
+        "influence": 879,
+        "defense": 480,
+        "src":
+    }
+]

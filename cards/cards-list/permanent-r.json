@@ -1,0 +1,290 @@
+[
+  {
+      "name": "Personal Server",
+      "type": "EMPATHY",
+      "rarity": 3,
+      "ml": "LUKE",
+      "influence": 879,
+      "defense": 480,
+      "src":
+  },
+  {
+      "name": "Partner",
+      "type": "EMPATHY",
+      "rarity": 3,
+      "ml": "LUKE",
+      "influence": 879,
+      "defense": 480,
+      "src":
+  },
+  {
+      "name": "Waiting for You",
+      "type": "EMPATHY",
+      "rarity": 3,
+      "ml": "LUKE",
+      "influence": 879,
+      "defense": 480,
+      "src":
+  },
+  {
+      "name": "Gourmet",
+      "type": "LOGIC",
+      "rarity": 3,
+      "ml": "LUKE",
+      "influence": 879,
+      "defense": 480,
+      "src":
+  },
+  {
+      "name": "Our Secret",
+      "type": "LOGIC",
+      "rarity": 3,
+      "ml": "LUKE",
+      "influence": 879,
+      "defense": 480,
+      "src":
+  },
+  {
+      "name": "Greetings",
+      "type": "INTUITION",
+      "rarity": 3,
+      "ml": "LUKE",
+      "influence": 879,
+      "defense": 480,
+      "src":
+  },
+  {
+      "name": "Tiredness",
+      "type": "INTUITION",
+      "rarity": 3,
+      "ml": "LUKE",
+      "influence": 879,
+      "defense": 480,
+      "src":
+  },
+  {
+      "name": "Warm Up",
+      "type": "INTUITION",
+      "rarity": 3,
+      "ml": "LUKE",
+      "influence": 879,
+      "defense": 480,
+      "src":
+  },
+  {
+      "name": "Tailored Suit",
+      "type": "LOGIC",
+      "rarity": 3,
+      "ml": "ARTEM",
+      "influence": 879,
+      "defense": 480,
+      "src":
+  },
+  {
+      "name": "Rain Drops",
+      "type": "LOGIC",
+      "rarity": 3,
+      "ml": "ARTEM",
+      "influence": 879,
+      "defense": 480,
+      "src":
+  },
+  {
+      "name": "Questioning",
+      "type": "LOGIC",
+      "rarity": 3,
+      "ml": "ARTEM",
+      "influence": 879,
+      "defense": 480,
+      "src":
+  },
+  {
+      "name": "Picking a Gift",
+      "type": "EMPATHY",
+      "rarity": 3,
+      "ml": "ARTEM",
+      "influence": 879,
+      "defense": 480,
+      "src":
+  },
+  {
+      "name": "Taking a Breather",
+      "type": "EMPATHY",
+      "rarity": 3,
+      "ml": "ARTEM",
+      "influence": 879,
+      "defense": 480,
+      "src":
+  },
+  {
+      "name": "Back to Business",
+      "type": "EMPATHY",
+      "rarity": 3,
+      "ml": "ARTEM",
+      "influence": 879,
+      "defense": 480,
+      "src":
+  },
+  {
+      "name": "Patience Is a Virtue",
+      "type": "INTUITION",
+      "rarity": 3,
+      "ml": "ARTEM",
+      "influence": 879,
+      "defense": 480,
+      "src":
+  },
+  {
+      "name": "Lock and Load",
+      "type": "INTUITION",
+      "rarity": 3,
+      "ml": "ARTEM",
+      "influence": 879,
+      "defense": 480,
+      "src":
+  },
+  {
+      "name": "Elegance",
+      "type": "EMPATHY",
+      "rarity": 3,
+      "ml": "VYN",
+      "influence": 879,
+      "defense": 480,
+      "src":
+  },
+  {
+      "name": "Remaining in Control",
+      "type": "EMPATHY",
+      "rarity": 3,
+      "ml": "VYN",
+      "influence": 879,
+      "defense": 480,
+      "src":
+  },
+  {
+      "name": "Observations",
+      "type": "LOGIC",
+      "rarity": 3,
+      "ml": "VYN",
+      "influence": 879,
+      "defense": 480,
+      "src":
+  },
+  {
+      "name": "A Hobby of Mine",
+      "type": "LOGIC",
+      "rarity": 3,
+      "ml": "VYN",
+      "influence": 879,
+      "defense": 480,
+      "src":
+  },
+  {
+      "name": "Leisure Time",
+      "type": "INTUITION",
+      "rarity": 3,
+      "ml": "VYN",
+      "influence": 879,
+      "defense": 480,
+      "src":
+  },
+  {
+      "name": "Unexpected Letter",
+      "type": "INTUITION",
+      "rarity": 3,
+      "ml": "VYN",
+      "influence": 879,
+      "defense": 480,
+      "src":
+  },
+  {
+      "name": "Unexpected Run-In",
+      "type": "INTUITION",
+      "rarity": 3,
+      "ml": "VYN",
+      "influence": 879,
+      "defense": 480,
+      "src":
+  },
+  {
+      "name": "Gentlemanly Courtesy",
+      "type": "LOGIC",
+      "rarity": 3,
+      "ml": "VYN",
+      "influence": 879,
+      "defense": 480,
+      "src":
+  },
+  {
+      "name": "Interlude",
+      "type": "EMPATHY",
+      "rarity": 3,
+      "ml": "MARIUS",
+      "influence": 879,
+      "defense": 480,
+      "src":
+  },
+  {
+      "name": "Invitation",
+      "type": "EMPATHY",
+      "rarity": 3,
+      "ml": "MARIUS",
+      "influence": 879,
+      "defense": 480,
+      "src":
+  },
+  {
+      "name": "Half-Time",
+      "type": "EMPATHY",
+      "rarity": 3,
+      "ml": "MARIUS",
+      "influence": 879,
+      "defense": 480,
+      "src":
+  },
+  {
+      "name": "Discussion",
+      "type": "LOGIC",
+      "rarity": 3,
+      "ml": "MARIUS",
+      "influence": 879,
+      "defense": 480,
+      "src":
+  },
+  {
+      "name": "Rhythm",
+      "type": "LOGIC",
+      "rarity": 3,
+      "ml": "MARIUS",
+      "influence": 879,
+      "defense": 480,
+      "src":
+  },
+  {
+      "name": "Fully Prepped",
+      "type": "LOGIC",
+      "rarity": 3,
+      "ml": "MARIUS",
+      "influence": 879,
+      "defense": 480,
+      "src":
+  },
+  {
+      "name": "Sudden Occurence",
+      "type": "INTUITION",
+      "rarity": 3,
+      "ml": "MARIUS",
+      "influence": 879,
+      "defense": 480,
+      "src":
+  },
+  {
+      "name": "Presence",
+      "type": "INTUITION",
+      "rarity": 3,
+      "ml": "MARIUS",
+      "influence": 879,
+      "defense": 480,
+      "src":
+  }
+]

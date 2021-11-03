@@ -36,24 +36,45 @@ Eventually
 
 ## Preview
 
-- Banners
+- Background
   <p align="center">
-    <img src="./doc-images/preview-banners.gif">
+    <img src="./doc-images/a.png">
   </p>
+
+  - Banners
+    <p align="center">
+      <img src="./doc-images/b.png">
+    </p>  
+
+    - Banner List
+      <p align="center">
+        <img src="./doc-images/e.png">
+      </p>  
 
 - Details
   <p align="center">
-    <img src="./doc-images/preview-details.gif">
+    <img src="./doc-images/f.png">
   </p>
 
-- Gacha
+- Variable Animation depending on Rarity
   <p align="center">
-    <img src="./doc-images/preview-wish.gif">
+    <img src="./doc-images/c.png">
   </p>
+
+  - Gacha Results
+    <p align="center">
+      <img src="./doc-images/d.png">
+    </p>  
+
+    - Gacha Results (Single)
+      <p align="center">
+        <img src="./doc-images/h.png">
+      </p>  
+
 
 - Inventory
   <p align="center">
-    <img src="./doc-images/preview-inventory.gif">
+    <img src="./doc-images/g.png">
   </p>
 
 ## Features
@@ -78,13 +99,30 @@ Eventually
 #### System Requirements
 
 - NPM 6 or higher
-- Node 10 or higher
+- Node 10 or higher (LTS not version 17 latest release)
 - Other libraries may be needed for future versions (I will update then)
 
 ### Installing Node
 
 - Follow the install guide: https://docs.npmjs.com/downloading-and-installing-node-js-and-npm/
 - I highly recommend using a package manager (I use chocolatey for windows)
+- Steps I followed:
+  ```shell
+  @"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "[System.Net.ServicePointManager]::SecurityProtocol = 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"
+  ```
+- After choco is installed, install a version manager for node (I used nodist)
+
+  ```shell
+  choco install nodist
+  ```
+- Then install nodejs with nodist using
+  ```shell
+  npm install -g npm
+  ```
+- Make sure you have git you can install from the website or just
+  ```shell
+  choco install git
+  ```
 
 #### Getting Started
 

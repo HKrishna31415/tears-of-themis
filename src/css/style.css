@@ -531,6 +531,11 @@ td {
   margin: .2rem;
 }
 
+.image-contain {
+  object-fit: contain;
+  object-position: center;
+}
+
 .vh-90 {
   height: 90vh !important;
 }

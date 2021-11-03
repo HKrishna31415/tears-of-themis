@@ -31,16 +31,25 @@ export default class Inventory extends Component {
       rating: (item1, item2) => item2.rating - item1.rating,
       quantity: (item1, item2) => item2.quantity - item1.quantity,
       name: (item1, item2) => item1.name.localeCompare(item2.name),
+      influence: (item1, item2) => item2.influence - item1.influence,
+      defense: (item1, item2) => item2.defense - item1.defense
+
+
     }
     const showFilter = {
       all: item => item,
-      vyn: item => item.ml === 'Vyn',
-      luke: item => item.ml === 'Luke',
-      artem: item => item.ml === 'Artem',
-      marius: item => item.ml === 'Marius',
+      vyn: item => item.ml === 'VYN',
+      luke: item => item.ml === 'LUKE',
+      artem: item => item.ml === 'ARTEM',
+      marius: item => item.ml === 'MARIUS',
       fiveStars: item => item.rating === 5,
       fourStars: item => item.rating === 4,
-      threeStars: item => item.rating === 3
+      threeStars: item => item.rating === 3,
+      logic: item => item.argument === 'LOGIC',
+      empathy: item => item.argument === 'EMPATHY',
+      intuition: item => item.argument === 'INTUITION'
+
+
     }
     // est cost per pull using $100 for 6480 s chips
     const amountSpent = this.calculateAmountSpent(inventoryList)
@@ -70,6 +79,8 @@ export default class Inventory extends Component {
                       <option value="rating">Rating</option>
                       <option value="name">Name</option>
                       <option value="quantity">Quantity</option>
+                      <option value="name">Influence</option>
+                      <option value="quantity">Defense</option>
                     </Input>
                   </FormGroup>
                 </Col>
@@ -133,6 +144,7 @@ export default class Inventory extends Component {
                         <ListView
                           key={item.name}
                           item={item}
+                          influence={item.influence}
                         />
                     )
                     : (

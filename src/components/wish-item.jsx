@@ -12,7 +12,7 @@ export default function WishItem(props) {
     md="1"
     style={{
       backgroundImage: `url('${type === 'character' ? characterImages('./' + src).default : weaponImages('./' + src).default}')`,
-      backgroundPositionX: itemPercentX+'%'
+      backgroundSize: "cover"
     }}
     className={`wish-item ${type} mx-1 px-0`}>
       {

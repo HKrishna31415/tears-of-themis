@@ -42,7 +42,7 @@ export default function WishItemSingle(props) {
             className="wish-item-single h-100 w-100"
             style={{
               backgroundImage,
-              backgroundSize: isCharacter ? 'contain' : 'inherit'
+              backgroundSize: "contain"
             }}
             sm="12"
             md="9"

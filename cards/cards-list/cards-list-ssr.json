@@ -1,0 +1,416 @@
+[
+    {
+        "name": "Perfect Partner",
+        "type": "LOGIC",
+        "rarity": 5,
+        "ml": "LUKE",
+        "influence": 2014,
+        "defense": 1166,
+        "src": "tailored-suit.png"
+    },
+    {
+
+        "name": "Alluring Gaze",
+        "type": "EMPATHY",
+        "rarity": 5,
+        "ml": "LUKE",
+        "influence": 2056,
+        "defense": 1124,
+        "src": "tailored-suit.png"
+    },
+    {
+        "name": "Shape of You",
+        "type": "INTUITION",
+        "rarity": 5,
+        "ml": "LUKE",
+        "influence": 2056,
+        "defense": 1124,
+        "src":
+    },
+    {
+
+        "name": "Iridescent Heartbeat",
+        "type": "EMPATHY",
+        "rarity": 5,
+        "ml": "LUKE",
+        "influence": 2120,
+        "defense": 1060,
+        "src":
+    },
+    {
+        "name": "Warm Embrace",
+        "type": "LOGIC",
+        "rarity": 5,
+        "ml": "LUKE",
+        "influence": 2120,
+        "defense": 1060,
+        "src":
+    },
+    {
+
+        "name": "Twinkling Gaze",
+        "type": "INTUITION",
+        "rarity": 5,
+        "ml": "LUKE",
+        "influence": 2014,
+        "defense": 1166,
+        "src":
+    },
+    {
+        "name": "Where The Heart is at Peace",
+        "type": "EMPATHY",
+        "rarity": 5,
+        "ml": "LUKE",
+        "influence": 2014,
+        "defense": 1166,
+        "src":
+    },
+    {
+        "name": "Sky Flying"
+        "type": "INTUITION",
+        "rarity": 5,
+        "ml": "LUKE",
+        "influence": 2120,
+        "defense": 1060,
+        "src":
+    },
+    {
+
+        "name": "Falling Galaxies in the Night",
+        "type": "LOGIC",
+        "rarity": 5,
+        "ml": "LUKE",
+        "influence": 2226,
+        "defense": 955,
+        "src":
+    },
+    {
+        "name": "Looming Nightmare",
+        "type": "LOGIC",
+        "rarity": 5,
+        "ml": "LUKE",
+        "influence": 2056,
+        "defense": 1124,
+        "src":
+    },
+    {
+
+        "name": "Wishes Between Day and Night",
+        "type": "LOGIC",
+        "rarity": 5,
+        "ml": "LUKE",
+        "influence": 2120,
+        "defense": 1060,
+        "src":
+    },
+    {
+
+        "name": "Loving Memories",
+        "type": "INTUITION",
+        "rarity": 5,
+        "ml": "ARTEM",
+        "influence": 2014,
+        "defense": 1166,
+        "src":
+    },
+    {
+
+        "name": "Atmospherics",
+        "type": "LOGIC",
+        "rarity": 5,
+        "ml": "ARTEM",
+        "influence": 2056,
+        "defense": 1124,
+        "src":
+    },
+    {
+        ,
+        "name": "Entwined Fate",
+        "type": "EMPATHY",
+        "rarity": 5,
+        "ml": "ARTEM",
+        "influence": 2014,
+        "defense": 1166,
+        "src":
+    },
+    {
+
+        "name": "Dreamful Melodies",
+        "type": "EMPATHY",
+        "rarity": 5,
+        "ml": "ARTEM",
+        "influence": 2120,
+        "defense": 1060,
+        "src":
+    },
+    {
+
+        "name": "One Step Away",
+        "type": "INTUITION",
+        "rarity": 5,
+        "ml": "ARTEM",
+        "influence": 2120,
+        "defense": 1060,
+        "src":
+    },
+    {
+        "name": "Traveling in the Heart of the Sky",
+        "type": "LOGIC",
+        "rarity": 5,
+        "ml": "ARTEM",
+        "influence": 2120,
+        "defense": 1060,
+        "src":
+    },
+    {
+        "name": "Hearts as One",
+        "type": "LOGIC",
+        "rarity": 5,
+        "ml": "ARTEM",
+        "influence": 2014,
+        "defense": 1166,
+        "src":
+    },
+    {
+        "name": "From Benevolent Rains to Clear Days",
+        "type": "INTUITION",
+        "rarity": 5,
+        "ml": "ARTEM",
+        "influence": 2056,
+        "defense": 833,
+        "src":
+    },
+    {
+        "name": "A Yearning of Forever",
+        "type": "EMPATHY",
+        "rarity": 5,
+        "ml": "ARTEM",
+        "influence": 2226,
+        "defense": 954,
+        "src":
+    },
+    {
+        "name": "Crackling Flames",
+        "type": "LOGIC",
+        "rarity": 5,
+        "ml": "ARTEM",
+        "influence": 2120,
+        "defense": 1060,
+        "src":
+    },
+    {
+
+        "name": "Shock"
+        "type": "EMPATHY",
+        "rarity": 5,
+        "ml": "ARTEM",
+        "influence": 2056,
+        "defense": 1124,
+        "src":
+    },
+    {
+        "name": "Near and Far",
+        "type": "INTUITION",
+        "rarity": 5,
+        "ml": "VYN",
+        "influence": 2014,
+        "defense": 1166,
+        "src":
+    },
+    {
+        "name": "Medieval Suspense",
+        "type": "EMPATHY",
+        "rarity": 5,
+        "ml": "VYN",
+        "influence": 2056,
+        "defense": 1124,
+        "src":
+    },
+    {
+        "name": "A Star in the Night",
+        "type": "LOGIC",
+        "rarity": 5,
+        "ml": "VYN",
+        "influence": 2014,
+        "defense": 1166,
+        "src":
+    },
+    {
+        "name": "Heartfelt Suspense",
+        "type": "LOGIC",
+        "rarity": 5,
+        "ml": "VYN",
+        "influence": 2120,
+        "defense": 1060,
+        "src":
+    },
+    {
+        "name": "Between Good and Evil",
+        "type": "INTUITION",
+        "rarity": 5,
+        "ml": "VYN",
+        "influence": 2056,
+        "defense": 1124,
+        "src":
+    },
+    {
+        "name": "Jewel-toned Falling Flames",
+        "type": "EMPATHY",
+        "rarity": 5,
+        "ml": "VYN",
+        "influence": 2120,
+        "defense": 1060,
+        "src":
+    },
+    {
+        "name": "Brewing Thoughts",
+        "type": "LOGIC",
+        "rarity": 5,
+        "ml": "VYN",
+        "influence": 2056,
+        "defense": 1124,
+        "src":
+    },
+    {
+        "name": "Neon Light Rhythm",
+        "type": "EMPATHY",
+        "rarity": 5,
+        "ml": "VYN",
+        "influence": 2014,
+        "defense": 1166,
+        "src":
+    },
+    {
+
+        "name": "Unchanging",
+        "type": "INTUITION",
+        "rarity": 5,
+        "ml": "VYN",
+        "influence": 2226,
+        "defense": 954,
+        "src":
+    },
+    {
+        "name": "Bindings of the Past",
+        "type": "INTUITION",
+        "rarity": 5,
+        "ml": "VYN",
+        "influence": 2184,
+        "defense": 996,
+        "src":
+    },
+    {
+        "name": "Moonlight Chaser",
+        "type": "INTUITION",
+        "rarity": 5,
+        "ml": "VYN",
+        "influence": 2120,
+        "defense": 1060,
+        "src":
+    },
+    {
+        "name": "Narrow Road",
+        "type": "EMPATHY",
+        "rarity": 5,
+        "ml": "MARIUS",
+        "influence": 2014,
+        "defense": 1166,
+        "src":
+    },
+    {
+
+        "name": "Eye of the Beholder",
+        "type": "INTUITION",
+        "rarity": 5,
+        "ml": "MARIUS",
+        "influence": 2056,
+        "defense": 1124,
+        "src":
+    },
+    {
+
+        "name": "Matching Tattoos",
+        "type": "LOGIC",
+        "rarity": 5,
+        "ml": "MARIUS",
+        "influence": 2120,
+        "defense": 1060,
+        "src":
+    },
+    {
+
+        "name": "In the Darkness",
+        "type": "INTUITION",
+        "rarity": 5,
+        "ml": "MARIUS",
+        "influence": 2120,
+        "defense": 1060,
+        "src":
+    },
+    {
+
+        "name": "Fabulous Feast",
+        "type": "LOGIC",
+        "rarity": 5,
+        "ml": "MARIUS",
+        "influence": 2056,
+        "defense": 1124,
+        "src":
+    },
+    {
+
+        "name": "Bright All Night"
+        "type": "EMPATHY",
+        "rarity": 5,
+        "ml": "MARIUS",
+        "influence": 2056,
+        "defense": 1124,
+        "src":
+    },
+    {
+        "name": "Aurora Borealis Daytime",
+        "type": "INTUITION",
+        "rarity": 5,
+        "ml": "MARIUS",
+        "influence": 2014,
+        "defense": 1166,
+        "src":
+    },
+    {
+        "name": "Viridian Tree Considerations",
+        "type": "LOGIC",
+        "rarity": 5,
+        "ml": "MARIUS",
+        "influence": 2014,
+        "defense": 1166,
+        "src":
+    },
+    {
+        "name": "Lights and Scenery",
+        "type": "EMPATHY",
+        "rarity": 5,
+        "ml": "MARIUS",
+        "influence": 2120,
+        "defense": 1060,
+        "src":
+    },
+    {
+
+        "name": "Heart-Depicting Brush",
+        "type": "LOGIC",
+        "rarity": 5,
+        "ml": "MARIUS",
+        "influence": 2014,
+        "defense": 1166,
+        "src":
+    },
+    {
+        "name": "Faint Light"
+        "type": "EMPATHY",
+        "rarity": 5,
+        "ml": "MARIUS",
+        "influence": 2120,
+        "defense": 1060,
+        "src":
+    }
+]

@@ -13,35 +13,81 @@ export default function BeginnersWishDetails() {
     <div className="details pt-5">
       <Container>
         <Title>
-          <h1>| Beginners' <span className="gold">Wish</span></h1>
+          <h1>| Novice <span className="gold">Banner</span></h1>
         </Title>
         <SubheadingSeparator
-          content="Wish Details"
+          content="Banner Details"
         />
         <EventDurationHeading
-          content="No time limit (Closes after 20 wishes)"
+          content="No time limit (Closes after 30 visions)"
         />
         <Row>
           <Col xs="12">
             <p className="my-3">
-              Beginners' <span className="gold">Wish</span> has no time limit and is aimed at Travelers who have recently landed in Teyvat. Non-promotional characters and weapons are available. <br/>
-              In Beginners' Wish, 10-wish sets cost <span className="orange">20%</span> less Acquaint Fate, and your first 10-wish set is guaranteedto include <span className="gold">"Chivalric Blossom" Noelle (Geo)</span>, and your second 10-wish set is guaranteed to include one <span className="orange">other</span> min. 4-star character! <br/>
-              Beginners' Wish expires after <span className="orange">20</span> attempts. After the wish expires, the page will disappear.
+              "<span className="orange">Novice Banner</span>" is
+              now available. <br />
+
+              1. Tears of Themis are used to obtain Visions (draw cards) from
+              this Shadow of Themis. <br />
+              2. Draw rates for designated cards will be increased for the duration
+              of the event. <br />
+              3. One card of SR or higher is guaranteed within 10 Visions. Once an
+              SR card is drawn, the guaranteed count will reset. <br />
+              4. One SSR card is guaranteed within 30 Visions. <br />
+
+
+              <br />
+            </p>
+            <p className="my-3">〓Rules〓</p>
+            <p className="my-3">SSR Cards</p>
+            <p className="my-3">
+            For Shadow of Themis "<span className="orange">Novice Banner</span>{" "}
+            ": Base probability of winning an SSR ={" "}
+            <span className="orange">1.600%</span>;
+            guaranteed to win an SSR at least once per{" "}
+            <span className="orange">30</span> attempts. <br />
+
+            </p>
+            <p className="my-3">SR Cards</p>
+            <p className="my-3">
+            For Shadow of Themis "<span className="orange">Novice Banner</span>{" "}
+            ": Base probability of winning an SR card ={" "}
+            <span className="orange">11.740%</span>; base probability of
+            winning any specific SR character = <span className="orange">0.419%</span>,
+            <br />
+
             </p>
             <p className="my-3">
-              〓Rules〓
+            SSR characters won come with{" "}
+            fully voiced <span className="orange">Character Stories</span>; SR
+            characters come with{" "}
+            unvoiced <span className="orange">Character Stories</span>; or with{" "}
+            voiced <span className="purple">Private Messages</span>.
             </p>
+            <p className="my-3">〓Duplicate Characters〓</p>
             <p className="my-3">
-              Base probability of winning 5-star character = <span className="orange">0.600%</span> <br/>
-              Base probability of winning 4-star character = <span className="orange">5.100%</span>; consolidated probability (incl. guarantee) = <span className="orange">13.000%</span>; guaranteed to win 4-star or above character at least once per <span className="orange">10</span> attempts <br/>
-              3-star weapons won in this wish come with <span className="purple">Masterless Stardust</span> ×15
-            </p>
-            <p className="my-3">
-              〓Duplicate Characters〓
-            </p>
-            <p className="my-3">
-              On obtaining a 5-star character that you already own (whether obtained in a wish, redeemed at the shop, or awarded by the game): The 2nd – 7th time you obtain the character, it will be converted into <span className="purple">that character's Stella Fortuna ×1</span> and <span className="gold">Masterless Starglitter</span> ×10; from the 8th time onwards it will be converted into <span className="gold">Masterless Starglitter</span> ×25 <br/>
-              On obtaining a 4-star character that you already own (whether obtained in a wish, redeemed at the shop, or awarded by the game): The 2nd – 7th time you obtain the character, it will be converted into <span className="purple">that character's Stella Fortuna ×1</span> and <span className="gold">Masterless Starglitter</span> ×2; from the 8th time onwards it will be converted into <span className="gold">Masterless Starglitter</span> ×5
+            On obtaining an SR character that you already own (whether
+            obtained in the gacha, farmed from anomaly stages, or awarded by the game):
+            the 2nd – 6th time you obtain the character, it will be converted
+            into that card's{" "}
+            <span className="purple">Card Fragment</span> ×100
+            which can be used to upgrade a character's influence
+            and defense.
+            From the 7th time onwards it will be converted into{" "}
+            <span className="purple">Gift I</span> ×1000.
+            This can be used to buy {" "}
+            <span className="orange">Vision Stars</span> of either R or SR rarity.
+            Four vision stars of the same type can allow you to upgrade any card's
+            influence and defense just as you would with x100 {" "}
+            <span className="purple">Card Fragment</span>. 7th copy R cards will
+            be converted into {" "}
+            <span className="purple">Gift I</span> ×100. <br />
+
+            The 7th copy of an SSR card (you whale) will be converted into {" "}
+            <span className="orange">Gift II</span> ×100
+            which can be redeemed for {" "}
+            <span className="brass">SSR Vision Stars</span>.
+
             </p>
             <h4 className="my-3 brass">
               Items to wish for:

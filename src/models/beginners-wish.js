@@ -10,7 +10,7 @@ export default class BeginnersWish extends BaseGacha {
   }
   set attempts(amount) {
     this.attemptsCount += amount
-    if(this.attemptsCount >= 20) {
+    if(this.attemptsCount >= 30) {
       this.setBeginnersWishDisable(true)
     }
     if(this.attemptsCount > 10) {

@@ -15,89 +15,130 @@ export default function InvitationToMundaneLifeDetails() {
     <div className="details pt-5">
       <Container>
         <Title>
-          <h1>| Event Wish "<span className="blue">Invitation to</span> Mundane Life"</h1>
+          <h1>| Mysteries of the <span className="gold">Lost Gold</span></h1>
         </Title>
+        <div>
+          <h2> Rotational Featured SSRs </h2>
+        </div>
         <SubheadingSeparator
           content="Increased Drop Rates!"
         />
         <StarsBar
           starCount={5}
-          content="Percentage of 5-Star Item Drops：50.000%"
+          content="Percentage of SSR Drops：80.000%"
           bgColor="#dcbba5"
         />
         <Row>
           <DetailsBox
-            title={'xiao'}
-            isWeapon={false}
-            element={'wind'}
+            title={'Dreamful Melodies'}
+            isWeapon={true}
+            src={'dreamful-melodies.png'}
+          />
+          <DetailsBox
+            title={'In the Darkness'}
+            isWeapon={true}
+            src={'in-the-darkness.png'}
           />
         </Row>
         <StarsBar
-          starCount={4}
-          content="Percentage of 4-Star Item Drops：50.000%"
-          bgColor="#b6abbf"
+          starCount={5}
+          content="Percentage of SSR Drops：20.000%"
+          bgColor="#dcbba5"
         />
         <Row>
           <DetailsBox
-            title={'diona'}
-            isWeapon={false}
-            element={'cryo'}
+            title={'Heartfelt Suspense'}
+            isWeapon={true}
+            src={'heartfelt-suspense.png'}
           />
           <DetailsBox
-            title={'beidou'}
-            isWeapon={false}
-            element={'electric'}
-          />
-          <DetailsBox
-            title={'xinyan'}
-            isWeapon={false}
-            element={'pyro'}
+            title={'Iridescent Heartbeat'}
+            isWeapon={true}
+            src={'iridescent-heartbeat.png'}
           />
         </Row>
-        <SubheadingSeparator
-          content="Wish Details"
-        />
-        <EventDurationHeading
-          content="Limited Time Event"
-        />
+        <SubheadingSeparator content="Wish Details" />
+        <EventDurationHeading content="Limited Time Event" />
         <Row>
           <Col xs="12">
             <p className="my-3">
-              Event Wish "<span className="blue">Invitation to</span> Mundane Life" is now available. During this event wish, the <span className="orange">event-exclusive</span> 5-star character <span className="aqua">"Vigilant Yaksha" Xiao (Anemo)</span> as well as 4-star characters <span className="blue">"Kätzlein Cocktail" Diona (Cryo)</span>, <span className="purple">"Uncrowned Lord of the Ocean" Beidou (Electro)</span>, and <span className="orange">"Blazing Riff" Xinyan (Pyro)</span> will get a <span className="orange">huge drop-rate boost</span>!
-              <br/>
-              <span className="orange">※ Of the above characters, the event-exclusive character will not be available in the standard wish "Wanderlust Invocation".</span>
+              "<span className="brass">Mysteries of the Lost Gold</span>" is
+              now available. <br />
+
+              1. Tears of Themis are used to obtain Visions (draw cards) from
+              this Shadow of Themis. <br />
+              2. Draw rates for designated cards will be increased for the duration
+              of the event. <br />
+              3. One card of SR or higher is guaranteed within 10 Visions. Once an
+              SR card is drawn, the guaranteed count will reset. <br />
+              4. One SSR card is guaranteed within 100 Visions. <br />
+
+              During this event wish, the event-exclusive SSR
+              cards at a rate up{" "}
+              <span className="brass">Dreamful Melodies (Artem)</span> {" "}
+              or <span className="brass">In the Darkness (Marius)</span> as well as
+              the other two SSR cards not at rate up{" "}
+              <span className="brass">Heartfelt Suspense (Vyn)</span>,{" "}
+              <span className="brass">Iridescent Heartbeat (Luke)</span> will be available.
+              <br />
+            </p>
+            <p className="my-3">〓Rules〓</p>
+            <p className="my-3">SSR Cards</p>
+            <p className="my-3">
+            For Shadow of Themis "<span className="orange">Mysteries of the Lost Gold</span>{" "}
+            ": Base probability of winning an SSR ={" "}
+            <span className="orange">1.600%</span>;
+            guaranteed to win an SSR at least once per{" "}
+            <span className="orange">100</span> attempts. <br />
+            There is a{" "}
+            <span className="orange">80%</span> chance the SSR will be the
+            promotional SSR{" "}
+            <span className="brass">
+              {" "}
+              <span className="brass">Dreamful Melodies (Artem)</span>
+            </span>{" "}
+            or <span className="brass">In the Darkness (Marius)</span>.
+            </p>
+            <p className="my-3">SR Cards</p>
+            <p className="my-3">
+            For Shadow of Themis "<span className="orange">Mysteries of the Lost Gold</span>{" "}
+            ": Base probability of winning an SR card ={" "}
+            <span className="orange">11.740%</span>; base probability of
+            winning any specific SR character ={" "} <span className="orange">0.419%</span>,
+            <br />
+
             </p>
             <p className="my-3">
-              〓Rules〓
+            SSR characters won come with{" "}
+            fully voiced <span className="orange">Character Stories</span>; SR
+            characters come with{" "}
+            unvoiced <span className="orange">Character Stories</span>; or with{" "}
+            voiced <span className="purple">Private Messages</span>.
             </p>
+            <p className="my-3">〓Duplicate Characters〓</p>
             <p className="my-3">
-              5-Star Items
-            </p>
-            <p className="my-3">
-              For Event Wish "<span className="blue">Invitation to</span> Mundane Life": Base probability of winning 5-star character = <span className="orange">0.600%</span>; consolidated probability (incl. guarantee) = <span className="orange">1.600%</span>; guaranteed to win 5-star character at least once per <span className="orange">90</span> attempts.
-              The first time you win a 5-star item in this event wish, there is a <span className="orange">50.000%</span> chance it will be the promotional character <span className="aqua">"Vigilant Yaksha" Xiao (Anemo)</span>. If the first 5-star character you win in this event wish is not the promotional character, then the next 5-star character you win is <span className="orange">guaranteed</span> to be the promotional character.
-            </p>
-            <p className="my-3">
-              4-Star Items
-            </p>
-            <p className="my-3">
-              For Event Wish "<span className="blue">Invitation to</span> Mundane Life": Base probability of winning 4-star item = <span className="orange">5.100%</span>; base probability of winning 4-star character = <span className="orange">2.550%</span>, and base probability of winning 4-star weapon = <span className="orange">2.550%</span>; consolidated probability (incl. guarantee) of winning 4-star item = <span className="orange">13.000%</span>; guaranteed to win 4-star or above item at least once per <span className="orange">10</span> attempts; probability of winning 4-star item through the guarantee = <span className="orange">99.400%</span>, and probability of winning 5-star item through the guarantee = <span className="orange">0.600%</span>. <br />
-              The first time you win a 4-star item in this event wish, there is a <span className="orange">50.000%</span> chance it will be one of the featured characters  <span className="blue">"Kätzlein Cocktail" Diona (Cryo)</span>, <span className="purple">"Uncrowned Lord of the Ocean" Beidou (Electro)</span>, and <span className="orange">"Blazing Riff" Xinyan (Pyro)</span>. If the first 4-star item you win in this event wish is not one of the featured characters, then the next 4-star item you win is <span className="orange">guaranteed</span> to be a featured character.
-            </p>
-            <p className="my-3">
-              4-star weapons won in this wish come with <span className="orange">Masterless Starglitter</span> ×2; 3-star weapons won in this wish come with <span className="purple">Masterless Stardust</span> ×15.
-            </p>
-            <p className="my-3">
-              〓Duplicate Characters〓
-            </p>
-            <p className="my-3">
-              On obtaining a 5-star character that you already own (whether obtained in a wish, redeemed at the shop, or awarded by the game): The 2nd – 7th time you obtain the character, it will be converted into <span className="purple">that character's Stella Fortuna</span> ×1 and <span className="orange">Masterless Starglitter</span> ×10; from the 8th time onwards it will be converted into <span className="orange">Masterless Starglitter</span> ×25.
-            </p>
-            <p className="my-3">
-              On obtaining a 4-star character that you already own (whether obtained in a wish, redeemed at the shop, or awarded by the game): The 2nd – 7th time you obtain the character, it will be converted into <span className="purple">that character's Stella Fortuna</span> ×1 and <span className="orange">Masterless Starglitter</span> ×2; from the 8th time onwards it will be converted into <span className="orange">Masterless Starglitter</span> ×5.
-            </p>
-            <p className="my-3">
-              ※ This is a character event wish. The wish guarantee count is accumulated within character event wishes only and is independent of the guarantee counts of other types of wishes.
+            On obtaining an SR character that you already own (whether
+            obtained in the gacha, farmed from anomaly stages, or awarded by the game):
+            the 2nd – 6th time you obtain the character, it will be converted
+            into that card's{" "}
+            <span className="purple">Card Fragment</span> ×100
+            which can be used to upgrade a character's influence
+            and defense.
+            From the 7th time onwards it will be converted into{" "}
+            <span className="purple">Gift I</span> ×1000.
+            This can be used to buy {" "}
+            <span className="orange">Vision Stars</span> of either R or SR rarity.
+            Four vision stars of the same type can allow you to upgrade any card's
+            influence and defense just as you would with x100 {" "}
+            <span className="purple">Card Fragment</span>. 7th copy R cards will
+            be converted into {" "}
+            <span className="purple">Gift I</span> ×100. <br />
+
+            The 7th copy of an SSR card (you whale) will be converted into {" "}
+            <span className="orange">Gift II</span> ×100
+            which can be redeemed for {" "}
+            <span className="brass">SSR Vision Stars</span>.
+
             </p>
             <h4 className="my-3 brass">
               Items to wish for:

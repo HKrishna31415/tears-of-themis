@@ -1,177 +1,606 @@
 [
-  {
-    "name": "Faint Light",
-    "rating": 5,
-    "class": "Polearm",
-    "src": "faint-light.png",
-    "isFeatured": true,
-    "type": "weapon",
-    "ml": "Vyn"
-  },
-  {
+	{
     "name": "Wishes Between Day and Night",
-    "rating": 5,
-    "class": "Claymore",
+		"argument": "LOGIC",
+		"type": "weapon",
+		"class": "Bow",
+		"rating": 5,
+    "ml": "LUKE",
+    "influence": 2120,
+    "defense": 1060,
     "src": "wishes-between-day-and-night.png",
-    "isFeatured": true,
-    "type": "weapon",
-    "ml": "Vyn"
-  },
-  {
-    "name": "Moonlight Chaser",
-    "rating": 5,
-    "type": "weapon",
-    "ml": "Vyn",
-    "class": "Bow",
-    "src": "moonlight-chaser.png"
-  },
-  {
+		"isFeatured": true
+	},
+	{
     "name": "Crackling Flames",
+    "argument": "LOGIC",
+		"type": "weapon",
+		"class": "Bow",
     "rating": 5,
-    "class": "Bow",
-    "src": "crackling-flames.png",
+    "ml": "ARTEM",
+    "influence": 2120,
+    "defense": 1060,
+		"src": "crackling-flames.png",
+		"isFeatured": true
+
+	},
+	{
+		"name": "Moonlight Chaser",
+		"argument": "INTUITION",
+		"type": "weapon",
+		"class": "Bow",
+		"rating": 5,
+    "ml": "VYN",
+    "influence": 2120,
+    "defense": 1060,
+		"src": "moonlight-chaser.png",
+    "isFeatured": true
+
+	},
+  {
+		"name": "Faint Light",
+		"argument": "EMPATHY",
     "type": "weapon",
-    "ml": "Vyn"
+    "class": "Bow",
+    "rating": 5,
+    "ml": "MARIUS",
+    "influence": 2120,
+    "defense": 1060,
+    "src": "faint-light.png",
+    "isFeatured": true
+
+  },
+  {
+    "name": "Among-the-Great-Blue",
+    "element": "Electro",
+    "type": "character",
+    "rating": 4,
+    "id": "749031374052393120",
+    "isFeatured": true,
+    "src": "among-the-great-blue.png",
+    "ml": "LUKE",
+    "influence": 1504,
+    "defense": 871,
+    "argument": "INTUITION",
+    "percentX": 59
+  },
+  {
+    "name": "Radiant Sunlight",
+    "argument": "INTUITION",
+    "type": "weapon",
+    "class": "Bow",
+    "rating": 4,
+    "ml": "LUKE",
+    "influence": 1583,
+    "defense": 791,
+    "src": "radiant-sunlight.png"
+  },
+  {
+    "name": "Timely Rescue",
+    "argument": "LOGIC",
+    "type": "weapon",
+    "class": "Bow",
+    "rating": 4,
+    "ml": "LUKE",
+    "influence": 1662,
+    "defense": 712,
+    "src": "timely-rescue.png"
+  },
+  {
+    "name": "Inner Sanctum",
+    "argument": "EMPATHY",
+    "type": "weapon",
+    "class": "Bow",
+    "rating": 4,
+    "ml": "LUKE",
+    "influence": 1630,
+    "defense": 744,
+    "src": "inner-sanctum.png"
+  },
+  {
+    "name": "Sparks",
+    "argument": "INTUITION",
+    "type": "weapon",
+    "class": "Bow",
+    "rating": 4,
+    "ml": "ARTEM",
+    "influence": 1662,
+    "defense": 713,
+    "src": "sparks.png"
+  },
+  {
+    "name": "Autumn Dreams",
+    "argument": "LOGIC",
+    "type": "weapon",
+    "class": "Bow",
+    "rating": 4,
+    "ml": "ARTEM",
+    "influence": 1630,
+    "defense": 744,
+    "src": "autumn-dreams.png"
+  },
+  {
+    "name": "In Sickness or in Health",
+    "argument": "EMPATHY",
+    "type": "weapon",
+    "class": "Bow",
+    "rating": 4,
+    "ml": "ARTEM",
+    "influence": 1535,
+    "defense": 838,
+    "src": "in-sickness-or-in-health.png"
   },
   {
     "name": "False Tears",
-    "rating": 4,
-    "class": "Bow",
-    "src": "false-tears.png",
-    "isFeatured": true,
+    "argument": "EMPATHY",
     "type": "weapon",
-    "ml": "Vyn"
-  },
-  {
-    "name": "How I Remember You",
-    "element": "Luke",
-    "type": "character",
+    "class": "Bow",
     "rating": 4,
-    "id": "3",
-    "percentX": 60,
-    "src": "how-I-remember-you.png",
-    "ml": "Luke"
+    "ml": "VYN",
+    "influence": 1504,
+    "defense": 871,
+    "src": "false-tears.png"
   },
   {
-    "name": "Fabulous Feast",
-    "element": "Luke",
-    "type": "character",
+    "name": "Lingering Warmth",
+    "argument": "LOGIC",
+    "type": "weapon",
+    "class": "Bow",
     "rating": 4,
-    "id": "4",
-    "percentX": 60,
-    "src": "Tartaglia.png",
-    "ml": "Luke"
+    "ml": "VYN",
+    "influence": 1662,
+    "defense": 712,
+    "src": "lingering-warmth.png"
   },
   {
-    "name": "Reunion",
+    "name": "Mercury in Retrograde",
+    "argument": "INTUITION",
+    "type": "weapon",
+    "class": "Bow",
+    "rating": 4,
+    "ml": "VYN",
+    "influence": 1535,
+    "defense": 838,
+    "src": "mercury-in-retrograde.png"
+  },
+  {
+    "name": "Mended Heart",
+    "argument": "EMPATHY",
+    "type": "weapon",
+    "class": "Bow",
+    "rating": 4,
+    "ml": "VYN",
+    "influence": 1583,
+    "defense": 792,
+    "src": "mended-heart.png"
+  },
+  {
+    "name": "Child at Heart",
+    "argument": "INTUITION",
+    "type": "weapon",
+    "class": "Bow",
+    "rating": 4,
+    "ml": "MARIUS",
+    "influence": 1536,
+    "defense": 839,
+    "src": "child-at-heart.png"
+  },
+  {
+    "name": "Overtone",
+    "argument": "EMPATHY",
+    "type": "weapon",
+    "class": "Bow",
+    "rating": 4,
+    "ml": "MARIUS",
+    "influence": 1504,
+    "defense": 871,
+    "src": "overtone.png"
+  },
+  {
+    "name": "Dream of Thebes",
+    "argument": "LOGIC",
+    "type": "weapon",
+    "class": "Bow",
+    "rating": 4,
+    "ml": "MARIUS",
+    "influence": 1630,
+    "defense": 744,
+    "src": "dream-of-thebes.png"
+  },
+  {
+    "name": "Personal Server",
+    "argument": "EMPATHY",
+    "type": "weapon",
+    "class": "Bow",
     "rating": 3,
-    "class": "Bow",
-    "src": "slingshot.png",
-    "type": "weapon",
-    "ml": "Vyn"
+    "ml": "LUKE",
+    "influence": 879,
+    "defense": 480,
+    "src": "personal-server.png"
   },
   {
-    "name": "Warm Little House",
-    "rating": 3,
-    "class": "Bow",
-    "src": "sharpshooters-oath.png",
+    "name": "Partner",
+    "argument": "EMPATHY",
     "type": "weapon",
-    "ml": "Vyn"
+    "class": "Bow",
+    "rating": 3,
+    "ml": "LUKE",
+    "influence": 879,
+    "defense": 480,
+    "src": "partner.png"
+  },
+  {
+    "name": "Waiting for You",
+    "argument": "EMPATHY",
+    "type": "weapon",
+    "class": "Bow",
+    "rating": 3,
+    "ml": "LUKE",
+    "influence": 879,
+    "defense": 480,
+    "src": "waiting-for-you.png"
+  },
+  {
+    "name": "Gourmet",
+    "argument": "LOGIC",
+    "type": "weapon",
+    "class": "Bow",
+    "rating": 3,
+    "ml": "LUKE",
+    "influence": 879,
+    "defense": 480,
+    "src": "gourmet.png"
+  },
+  {
+    "name": "Our Secret",
+    "argument": "LOGIC",
+    "type": "weapon",
+    "class": "Bow",
+    "rating": 3,
+    "ml": "LUKE",
+    "influence": 879,
+    "defense": 480,
+    "src": "our-secret.png"
+  },
+  {
+    "name": "Greetings",
+    "argument": "INTUITION",
+    "type": "weapon",
+    "class": "Bow",
+    "rating": 3,
+    "ml": "LUKE",
+    "influence": 879,
+    "defense": 480,
+    "src": "greetings.png"
+  },
+  {
+    "name": "Tiredness",
+    "argument": "INTUITION",
+    "type": "weapon",
+    "class": "Bow",
+    "rating": 3,
+    "ml": "LUKE",
+    "influence": 879,
+    "defense": 480,
+    "src": "tiredness.png"
   },
   {
     "name": "Warm Up",
-    "rating": 3,
+    "argument": "INTUITION",
+    "type": "weapon",
     "class": "Bow",
-    "src": "raven-bow.png",
-    "type": "weapon",
-    "ml": "Vyn"
-  },
-  {
-    "name": "Interlude",
     "rating": 3,
-    "type": "weapon",
-    "ml": "Vyn",
-    "class": "Catalyst",
-    "src": "emerald-orb.png"
-  },
-  {
-    "name": "Trying to Fathom",
-    "rating": 3,
-    "class": "Catalyst",
-    "src": "thrilling-tales-of-dragon-slayers.png",
-    "type": "weapon",
-    "ml": "Vyn"
-  },
-  {
-    "name": "Freeze Frame",
-    "rating": 3,
-    "class": "Catalyst",
-    "src": "magic-guide.png",
-    "type": "weapon",
-    "ml": "Vyn"
-  },
-  {
-    "name": "Rain Drops",
-    "rating": 3,
-    "class": "Polearm",
-    "src": "rain-drops.png",
-    "type": "weapon",
-    "ml": "Vyn"
-  },
-  {
-    "name": "All Ready",
-    "rating": 3,
-    "class": "Claymore",
-    "src": "debate-club.png",
-    "type": "weapon",
-    "ml": "Vyn"
-  },
-  {
-    "name": "Leisure Time",
-    "rating": 3,
-    "class": "Claymore",
-    "src": "leisure-time.png",
-    "type": "weapon",
-    "ml": "Vyn"
-  },
-  {
-    "name": "Elegance",
-    "rating": 3,
-    "class": "Claymore",
-    "src": "ferrous-shadow.png",
-    "type": "weapon",
-    "ml": "Vyn"
-  },
-  {
-    "name": "Diversified",
-    "rating": 3,
-    "class": "Sword",
-    "src": "skyrider-sword.png",
-    "type": "weapon",
-    "ml": "Vyn"
-  },
-  {
-    "name": "Heart's Boundary Flight",
-    "rating": 3,
-    "class": "Sword",
-    "src": "harbinger-of-dawn.png",
-    "type": "weapon",
-    "ml": "Vyn"
-  },
-  {
-    "name": "Practice Makes Perfect",
-    "rating": 3,
-    "class": "Sword",
-    "src": "cool-steel.png",
-    "type": "weapon",
-    "ml": "Vyn"
+    "ml": "LUKE",
+    "influence": 879,
+    "defense": 480,
+    "src": "warm-up.png"
   },
   {
     "name": "Tailored Suit",
-    "rating": 3,
-    "class": "Sword",
-    "src": "tailored-suit.png",
+    "argument": "LOGIC",
     "type": "weapon",
-    "ml": "Vyn"
+    "class": "Bow",
+    "rating": 3,
+    "ml": "ARTEM",
+    "influence": 879,
+    "defense": 480,
+    "src": "tailored-suit.png"
+  },
+  {
+    "name": "Rain Drops",
+    "argument": "LOGIC",
+    "type": "weapon",
+    "class": "Bow",
+    "rating": 3,
+    "ml": "ARTEM",
+    "influence": 879,
+    "defense": 480,
+    "src": "rain-drops.png"
+  },
+  {
+    "name": "Questioning",
+    "argument": "LOGIC",
+    "type": "weapon",
+    "class": "Bow",
+    "rating": 3,
+    "ml": "ARTEM",
+    "influence": 879,
+    "defense": 480,
+    "src": "questioning.png"
+  },
+  {
+    "name": "Picking a Gift",
+    "argument": "EMPATHY",
+    "type": "weapon",
+    "class": "Bow",
+    "rating": 3,
+    "ml": "ARTEM",
+    "influence": 879,
+    "defense": 480,
+    "src": "picking-a-gift.png"
+  },
+  {
+    "name": "Taking a Breather",
+    "argument": "EMPATHY",
+    "type": "weapon",
+    "class": "Bow",
+    "rating": 3,
+    "ml": "ARTEM",
+    "influence": 879,
+    "defense": 480,
+    "src": "taking-a-breather.png"
+  },
+  {
+    "name": "Back to Business",
+    "argument": "EMPATHY",
+    "type": "weapon",
+    "class": "Bow",
+    "rating": 3,
+    "ml": "ARTEM",
+    "influence": 879,
+    "defense": 480,
+    "src": "back-to-business.png"
+  },
+  {
+    "name": "Patience Is a Virtue",
+    "argument": "INTUITION",
+    "type": "weapon",
+    "class": "Bow",
+    "rating": 3,
+    "ml": "ARTEM",
+    "influence": 879,
+    "defense": 480,
+    "src": "patience-is-a-virtue.png"
+  },
+  {
+    "name": "Lock and Load",
+    "argument": "INTUITION",
+    "type": "weapon",
+    "class": "Bow",
+    "rating": 3,
+    "ml": "ARTEM",
+    "influence": 879,
+    "defense": 480,
+    "src": "lock-and-load.png"
+  },
+  {
+    "name": "Elegance",
+    "argument": "EMPATHY",
+    "type": "weapon",
+    "class": "Bow",
+    "rating": 3,
+    "ml": "VYN",
+    "influence": 879,
+    "defense": 480,
+    "src": "elegance.png"
+  },
+  {
+    "name": "Remaining in Control",
+    "argument": "EMPATHY",
+    "type": "weapon",
+    "class": "Bow",
+    "rating": 3,
+    "ml": "VYN",
+    "influence": 879,
+    "defense": 480,
+    "src": "remaining-in-control.png"
+  },
+  {
+    "name": "Observations",
+    "argument": "LOGIC",
+    "type": "weapon",
+    "class": "Bow",
+    "rating": 3,
+    "ml": "VYN",
+    "influence": 879,
+    "defense": 480,
+    "src": "observations.png"
+  },
+  {
+    "name": "A Hobby of Mine",
+    "argument": "LOGIC",
+    "type": "weapon",
+    "class": "Bow",
+    "rating": 3,
+    "ml": "VYN",
+    "influence": 879,
+    "defense": 480,
+    "src": "a-hobby-of-mine.png"
+  },
+  {
+    "name": "Leisure Time",
+    "argument": "INTUITION",
+    "type": "weapon",
+    "class": "Bow",
+    "rating": 3,
+    "ml": "VYN",
+    "influence": 879,
+    "defense": 480,
+    "src": "leisure-time.png"
+  },
+  {
+    "name": "Unexpected Letter",
+    "argument": "INTUITION",
+    "type": "weapon",
+    "class": "Bow",
+    "rating": 3,
+    "ml": "VYN",
+    "influence": 879,
+    "defense": 480,
+    "src": "unexpected.png"
+  },
+  {
+    "name": "Unexpected Run-In",
+    "argument": "INTUITION",
+    "type": "weapon",
+    "class": "Bow",
+    "rating": 3,
+    "ml": "VYN",
+    "influence": 879,
+    "defense": 480,
+    "src": "unexpected-run-in.png"
+  },
+  {
+    "name": "Gentlemanly Courtesy",
+    "argument": "LOGIC",
+    "type": "weapon",
+    "class": "Bow",
+    "rating": 3,
+    "ml": "VYN",
+    "influence": 879,
+    "defense": 480,
+    "src": "gentlemanly-courtesy.png"
+  },
+  {
+    "name": "Interlude",
+    "argument": "EMPATHY",
+    "type": "weapon",
+    "class": "Bow",
+    "rating": 3,
+    "ml": "MARIUS",
+    "influence": 879,
+    "defense": 480,
+    "src": "interlude.png"
+  },
+  {
+    "name": "Invitation",
+    "argument": "EMPATHY",
+    "type": "weapon",
+    "class": "Bow",
+    "rating": 3,
+    "ml": "MARIUS",
+    "influence": 879,
+    "defense": 480,
+    "src": "invitation.png"
+  },
+  {
+    "name": "Half-Time",
+    "argument": "EMPATHY",
+    "type": "weapon",
+    "class": "Bow",
+    "rating": 3,
+    "ml": "MARIUS",
+    "influence": 879,
+    "defense": 480,
+    "src": "half-time.png"
+  },
+  {
+    "name": "Discussion",
+    "argument": "LOGIC",
+    "type": "weapon",
+    "class": "Bow",
+    "rating": 3,
+    "ml": "MARIUS",
+    "influence": 879,
+    "defense": 480,
+    "src": "discussion.png"
+  },
+  {
+    "name": "Rhythm",
+    "argument": "LOGIC",
+    "type": "weapon",
+    "class": "Bow",
+    "rating": 3,
+    "ml": "MARIUS",
+    "influence": 879,
+    "defense": 480,
+    "src": "rhythm.png"
+  },
+  {
+    "name": "Fully Prepped",
+    "argument": "LOGIC",
+    "type": "weapon",
+    "class": "Bow",
+    "rating": 3,
+    "ml": "MARIUS",
+    "influence": 879,
+    "defense": 480,
+    "src": "fully-prepped.png"
+  },
+  {
+    "name": "Sudden Occurence",
+    "argument": "INTUITION",
+    "type": "weapon",
+    "class": "Bow",
+    "rating": 3,
+    "ml": "MARIUS",
+    "influence": 879,
+    "defense": 480,
+    "src": "sudden-occurence.png"
+  },
+  {
+    "name": "Presence",
+    "argument": "INTUITION",
+    "type": "weapon",
+    "class": "Bow",
+    "rating": 3,
+    "ml": "MARIUS",
+    "influence": 879,
+    "defense": 480,
+    "src": "presence.png"
+  },
+	{
+    "name": "Systematic and Thorough",
+    "argument": "INTUITION",
+    "type": "weapon",
+    "class": "Bow",
+    "rating": 3,
+    "ml": "ARTEM",
+		"influence": 863,
+		"defense": 431,
+    "src": "systematic-and-thorough.png"
+  },
+	{
+    "name": "Spirit of Youth",
+    "argument": "INTUITION",
+    "type": "weapon",
+    "class": "Bow",
+    "rating": 3,
+    "ml": "LUKE",
+		"influence": 863,
+		"defense": 431,
+    "src": "spirit-of-youth.png"
+  },
+	{
+    "name": "Fated Invitation",
+    "argument": "EMPATHY",
+    "type": "weapon",
+    "class": "Bow",
+    "rating": 3,
+    "ml": "VYN",
+		"influence": 863,
+		"defense": 431,
+    "src": "fated-invitation.png"
+  },
+	{
+    "name": "King's Approval",
+    "argument": "LOGIC",
+    "type": "weapon",
+    "class": "Bow",
+    "rating": 3,
+    "ml": "MARIUS",
+		"influence": 863,
+		"defense": 431,
+    "src": "kings-approval.png"
   }
 ]

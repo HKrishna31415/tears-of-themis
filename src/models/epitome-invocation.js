@@ -4,7 +4,7 @@ import drops from '../data/epitome-invocation.json'
 export default class EpitomeInvocation extends BaseGacha {
   constructor() {
     super(drops)
-    this.hardPity5Limit = 100
+    this.hardPity5Limit = 80
     this.softPity5Start = 65
     this.guaranteedFeatured5Star = false
     this.standardRange = this.generateProbabilityRange(933, 60, 7)

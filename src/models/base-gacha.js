@@ -85,8 +85,10 @@ export default class BaseGacha {
     if (isFeatured) {
       result = items.filter(item => item.isFeatured === true)
     } else if (rating === 4) {
-      const coinFlip = this.flipACoin()
-      const itemType = coinFlip ? 'character' : 'weapon'
+      const itemType = 'weapon'
+      result = items.filter(item => item.type === itemType && !item.isFeatured)
+    } else if (rating === 5) {
+      const itemType = 'weapon'
       result = items.filter(item => item.type === itemType && !item.isFeatured)
     } else {
       result = items.filter(item => !item.isFeatured)

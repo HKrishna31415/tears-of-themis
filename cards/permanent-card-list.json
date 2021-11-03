@@ -1,0 +1,665 @@
+[
+  {
+      "name": "Perfect Partner",
+      "argument": "LOGIC",
+      "element": "Electro",
+      "type": "character",
+      "rating": 5,
+      "ml": "LUKE",
+      "influence": 2014,
+      "defense": 1166,
+      "src": "perfect-partner.png",
+      "percentX": 62
+
+  },
+  {
+
+      "name": "Alluring Gaze",
+      "argument": "EMPATHY",
+      "element": "Electro",
+      "type": "character",
+      "rating": 5,
+      "ml": "LUKE",
+      "influence": 2056,
+      "defense": 1124,
+      "src": "alluring-gaze.png",
+      "percentX": 62
+
+  },
+  {
+
+      "name": "Loving Memories",
+      "argument": "INTUITION",
+      "element": "Electro",
+      "type": "character",
+      "rating": 5,
+      "ml": "ARTEM",
+      "influence": 2014,
+      "defense": 1166,
+      "src": "loving-memories.png",
+      "percentX": 62
+
+  },
+  {
+
+      "name": "Atmospherics",
+      "argument": "LOGIC",
+      "element": "Electro",
+      "type": "character",
+      "rating": 5,
+      "ml": "ARTEM",
+      "influence": 2056,
+      "defense": 1124,
+      "src": "atmospherics.png",
+      "percentX": 62
+
+  },
+  {
+      "name": "Near and Far",
+      "argument": "INTUITION",
+      "element": "Electro",
+      "type": "character",
+      "rating": 5,
+      "ml": "VYN",
+      "influence": 2014,
+      "defense": 1166,
+      "src": "near-and-far.png",
+      "percentX": 62
+
+  },
+  {
+      "name": "Medieval Suspense",
+      "argument": "EMPATHY",
+      "element": "Electro",
+      "type": "character",
+      "rating": 5,
+      "ml": "VYN",
+      "influence": 2056,
+      "defense": 1124,
+      "src": "medieval-suspense.png",
+      "percentX": 62
+
+  },
+  {
+      "name": "Narrow Road",
+      "argument": "EMPATHY",
+      "element": "Electro",
+      "type": "character",
+      "rating": 5,
+      "ml": "MARIUS",
+      "influence": 2014,
+      "defense": 1166,
+      "src": "narrow-road.png",
+      "percentX": 62
+
+  },
+  {
+      "name": "Eye of the Beholder",
+      "argument": "INTUITION",
+      "element": "Electro",
+      "type": "character",
+      "rating": 5,
+      "ml": "MARIUS",
+      "influence": 2056,
+      "defense": 1124,
+      "src": "eye-of-the-beholder.png",
+      "percentX": 62
+
+  },
+
+  {
+      "name":  "Among the Great Blue",
+      "argument": "INTUITION",
+      "element": "Electro",
+      "type": "character",
+      "rating": 4,
+      "ml": "LUKE",
+      "influence": 1504,
+      "defense": 871,
+      "src": "among-the-great-blue.png",
+      "percentX": 62
+  },
+
+
+
+
+  {
+      "name": "Radiant Sunlight",
+      "argument": "INTUITION",
+      "type": "weapon",
+      "class": "Bow",
+      "rating": 4,
+      "ml": "LUKE",
+      "influence": 1583,
+      "defense": 791,
+      "src": "radiant-sunlight.png"
+  },
+  {
+      "name": "Moment of Danger",
+      "argument": "EMPATHY",
+      "type": "weapon",
+      "class": "Bow",
+      "rating": 4,
+      "ml": "LUKE",
+      "influence": 1662,
+      "defense": 712,
+      "src": "moment-of-danger.png"
+  },
+  {
+      "name": "Timely Rescue",
+      "argument": "LOGIC",
+      "type": "weapon",
+      "class": "Bow",
+      "rating": 4,
+      "ml": "LUKE",
+      "influence": 1662,
+      "defense": 712,
+      "src": "timely-rescue.png"
+  },
+  {
+      "name": "Inner Sanctum",
+      "argument": "EMPATHY",
+      "type": "weapon",
+      "class": "Bow",
+      "rating": 4,
+      "ml": "LUKE",
+      "influence": 1630,
+      "defense": 744,
+      "src": "inner-sanctum.png"
+  },
+  {
+      "name": "Sparks",
+      "argument": "INTUITION",
+      "type": "weapon",
+      "class": "Bow",
+      "rating": 4,
+      "ml": "ARTEM",
+      "influence": 1662,
+      "defense": 713,
+      "src": "sparks.png"
+  },
+  {
+      "name": "Autumn Dreams",
+      "argument": "LOGIC",
+      "type": "weapon",
+      "class": "Bow",
+      "rating": 4,
+      "ml": "ARTEM",
+      "influence": 1630,
+      "defense": 744,
+      "src": "autumn-dreams.png"
+  },
+  {
+      "name": "In Sickness or in Health",
+      "argument": "EMPATHY",
+      "type": "weapon",
+      "class": "Bow",
+      "rating": 4,
+      "ml": "ARTEM",
+      "influence": 1535,
+      "defense": 838,
+      "src": "in-sickness-or-in-health.png"
+  },
+  {
+      "name": "Focus Fire",
+      "argument": "LOGIC",
+      "type": "weapon",
+      "class": "Bow",
+      "rating": 4,
+      "ml": "ARTEM",
+      "influence": 1536,
+      "defense": 839,
+      "src": "focus-fire.png"
+  },
+  {
+      "name": "False Tears",
+      "argument": "EMPATHY",
+      "type": "weapon",
+      "class": "Bow",
+      "rating": 4,
+      "ml": "VYN",
+      "influence": 1504,
+      "defense": 871,
+      "src": "false-tears.png"
+  },
+  {
+      "name": "Lingering Warmth",
+      "argument": "LOGIC",
+      "type": "weapon",
+      "class": "Bow",
+      "rating": 4,
+      "ml": "VYN",
+      "influence": 1662,
+      "defense": 712,
+      "src": "lingering-warmth.png"
+  },
+  {
+      "name": "Mercury in Retrograde",
+      "argument": "INTUITION",
+      "type": "weapon",
+      "class": "Bow",
+      "rating": 4,
+      "ml": "VYN",
+      "influence": 1535,
+      "defense": 838,
+      "src": "mercury-in-retrograde.png"
+  },
+  {
+      "name": "Mended Heart",
+      "argument": "EMPATHY",
+      "type": "weapon",
+      "class": "Bow",
+      "rating": 4,
+      "ml": "VYN",
+      "influence": 1583,
+      "defense": 792,
+      "src": "mended-heart.png"
+  },
+  {
+      "name": "Gentleman's Game",
+      "argument": "INTUITION",
+      "type": "weapon",
+      "class": "Bow",
+      "rating": 4,
+      "ml": "VYN",
+      "influence": 1630,
+      "defense": 744,
+      "src": "gentlemans-game.png"
+  },
+  {
+      "name": "Child at Heart",
+      "argument": "INTUITION",
+      "type": "weapon",
+      "class": "Bow",
+      "rating": 4,
+      "ml": "MARIUS",
+      "influence": 1536,
+      "defense": 839,
+      "src": "child-at-heart.png"
+  },
+  {
+      "name": "Overtone",
+      "argument": "EMPATHY",
+      "type": "weapon",
+      "class": "Bow",
+      "rating": 4,
+      "ml": "MARIUS",
+      "influence": 1504,
+      "defense": 871,
+      "src": "overtone.png"
+  },
+  {
+      "name": "Dream of Thebes",
+      "argument": "LOGIC",
+      "type": "weapon",
+      "class": "Bow",
+      "rating": 4,
+      "ml": "MARIUS",
+      "influence": 1630,
+      "defense": 744,
+      "src": "dream-of-thebes.png"
+  },
+  {
+      "name": "A Dance on the Clouds",
+      "argument": "LOGIC",
+      "type": "weapon",
+      "class": "Bow",
+      "rating": 4,
+      "ml": "MARIUS",
+      "influence": 1582,
+      "defense": 791,
+      "src": "a-dance-on-the-clouds.png"
+  },
+  {
+      "name": "Personal Server",
+      "argument": "EMPATHY",
+      "type": "weapon",
+      "class": "Bow",
+      "rating": 3,
+      "ml": "LUKE",
+      "influence": 879,
+      "defense": 480,
+      "src": "personal-server.png"
+  },
+  {
+      "name": "Partner",
+      "argument": "EMPATHY",
+      "type": "weapon",
+      "class": "Bow",
+      "rating": 3,
+      "ml": "LUKE",
+      "influence": 879,
+      "defense": 480,
+      "src": "partner.png"
+  },
+  {
+      "name": "Waiting for You",
+      "argument": "EMPATHY",
+      "type": "weapon",
+      "class": "Bow",
+      "rating": 3,
+      "ml": "LUKE",
+      "influence": 879,
+      "defense": 480,
+      "src": "waiting-for-you.png"
+  },
+  {
+      "name": "Gourmet",
+      "argument": "LOGIC",
+      "type": "weapon",
+      "class": "Bow",
+      "rating": 3,
+      "ml": "LUKE",
+      "influence": 879,
+      "defense": 480,
+      "src": "gourmet.png"
+  },
+  {
+      "name": "Our Secret",
+      "argument": "LOGIC",
+      "type": "weapon",
+      "class": "Bow",
+      "rating": 3,
+      "ml": "LUKE",
+      "influence": 879,
+      "defense": 480,
+      "src": "our-secret.png"
+  },
+  {
+      "name": "Greetings",
+      "argument": "INTUITION",
+      "type": "weapon",
+      "class": "Bow",
+      "rating": 3,
+      "ml": "LUKE",
+      "influence": 879,
+      "defense": 480,
+      "src": "greetings.png"
+  },
+  {
+      "name": "Tiredness",
+      "argument": "INTUITION",
+      "type": "weapon",
+      "class": "Bow",
+      "rating": 3,
+      "ml": "LUKE",
+      "influence": 879,
+      "defense": 480,
+      "src": "tiredness.png"
+  },
+  {
+      "name": "Warm Up",
+      "argument": "INTUITION",
+      "type": "weapon",
+      "class": "Bow",
+      "rating": 3,
+      "ml": "LUKE",
+      "influence": 879,
+      "defense": 480,
+      "src": "warm-up.png"
+  },
+  {
+      "name": "Tailored Suit",
+      "argument": "LOGIC",
+      "type": "weapon",
+      "class": "Bow",
+      "rating": 3,
+      "ml": "ARTEM",
+      "influence": 879,
+      "defense": 480,
+      "src": "tailored-suit.png"
+  },
+  {
+      "name": "Rain Drops",
+      "argument": "LOGIC",
+      "type": "weapon",
+      "class": "Bow",
+      "rating": 3,
+      "ml": "ARTEM",
+      "influence": 879,
+      "defense": 480,
+      "src": "rain-drops.png"
+  },
+  {
+      "name": "Questioning",
+      "argument": "LOGIC",
+      "type": "weapon",
+      "class": "Bow",
+      "rating": 3,
+      "ml": "ARTEM",
+      "influence": 879,
+      "defense": 480,
+      "src": "questioning.png"
+  },
+  {
+      "name": "Picking a Gift",
+      "argument": "EMPATHY",
+      "type": "weapon",
+      "class": "Bow",
+      "rating": 3,
+      "ml": "ARTEM",
+      "influence": 879,
+      "defense": 480,
+      "src": "picking-a-gift.png"
+  },
+  {
+      "name": "Taking a Breather",
+      "argument": "EMPATHY",
+      "type": "weapon",
+      "class": "Bow",
+      "rating": 3,
+      "ml": "ARTEM",
+      "influence": 879,
+      "defense": 480,
+      "src": "taking-a-breather.png"
+  },
+  {
+      "name": "Back to Business",
+      "argument": "EMPATHY",
+      "type": "weapon",
+      "class": "Bow",
+      "rating": 3,
+      "ml": "ARTEM",
+      "influence": 879,
+      "defense": 480,
+      "src": "back-to-business.png"
+  },
+  {
+      "name": "Patience Is a Virtue",
+      "argument": "INTUITION",
+      "type": "weapon",
+      "class": "Bow",
+      "rating": 3,
+      "ml": "ARTEM",
+      "influence": 879,
+      "defense": 480,
+      "src": "patience-is-a-virtue.png"
+  },
+  {
+      "name": "Lock and Load",
+      "argument": "INTUITION",
+      "type": "weapon",
+      "class": "Bow",
+      "rating": 3,
+      "ml": "ARTEM",
+      "influence": 879,
+      "defense": 480,
+      "src": "lock-and-load.png"
+  },
+  {
+      "name": "Elegance",
+      "argument": "EMPATHY",
+      "type": "weapon",
+      "class": "Bow",
+      "rating": 3,
+      "ml": "VYN",
+      "influence": 879,
+      "defense": 480,
+      "src": "elegance.png"
+  },
+  {
+      "name": "Remaining in Control",
+      "argument": "EMPATHY",
+      "type": "weapon",
+      "class": "Bow",
+      "rating": 3,
+      "ml": "VYN",
+      "influence": 879,
+      "defense": 480,
+      "src": "remaining-in-control.png"
+  },
+  {
+      "name": "Observations",
+      "argument": "LOGIC",
+      "type": "weapon",
+      "class": "Bow",
+      "rating": 3,
+      "ml": "VYN",
+      "influence": 879,
+      "defense": 480,
+      "src": "observations.png"
+  },
+  {
+      "name": "A Hobby of Mine",
+      "argument": "LOGIC",
+      "type": "weapon",
+      "class": "Bow",
+      "rating": 3,
+      "ml": "VYN",
+      "influence": 879,
+      "defense": 480,
+      "src": "a-hobby-of-mine.png"
+  },
+  {
+      "name": "Leisure Time",
+      "argument": "INTUITION",
+      "type": "weapon",
+      "class": "Bow",
+      "rating": 3,
+      "ml": "VYN",
+      "influence": 879,
+      "defense": 480,
+      "src": "leisure-time.png"
+  },
+  {
+      "name": "Unexpected Letter",
+      "argument": "INTUITION",
+      "type": "weapon",
+      "class": "Bow",
+      "rating": 3,
+      "ml": "VYN",
+      "influence": 879,
+      "defense": 480,
+      "src": "unexpected.png"
+  },
+  {
+      "name": "Unexpected Run-In",
+      "argument": "INTUITION",
+      "type": "weapon",
+      "class": "Bow",
+      "rating": 3,
+      "ml": "VYN",
+      "influence": 879,
+      "defense": 480,
+      "src": "unexpected-run-in.png"
+  },
+  {
+      "name": "Gentlemanly Courtesy",
+      "argument": "LOGIC",
+      "type": "weapon",
+      "class": "Bow",
+      "rating": 3,
+      "ml": "VYN",
+      "influence": 879,
+      "defense": 480,
+      "src": "gentlemanly-courtesy.png"
+  },
+  {
+      "name": "Interlude",
+      "argument": "EMPATHY",
+      "type": "weapon",
+      "class": "Bow",
+      "rating": 3,
+      "ml": "MARIUS",
+      "influence": 879,
+      "defense": 480,
+      "src": "interlude.png"
+  },
+  {
+      "name": "Invitation",
+      "argument": "EMPATHY",
+      "type": "weapon",
+      "class": "Bow",
+      "rating": 3,
+      "ml": "MARIUS",
+      "influence": 879,
+      "defense": 480,
+      "src": "invitation.png"
+  },
+  {
+      "name": "Half-Time",
+      "argument": "EMPATHY",
+      "type": "weapon",
+      "class": "Bow",
+      "rating": 3,
+      "ml": "MARIUS",
+      "influence": 879,
+      "defense": 480,
+      "src": "half-time.png"
+  },
+  {
+      "name": "Discussion",
+      "argument": "LOGIC",
+      "type": "weapon",
+      "class": "Bow",
+      "rating": 3,
+      "ml": "MARIUS",
+      "influence": 879,
+      "defense": 480,
+      "src": "discussion.png"
+  },
+  {
+      "name": "Rhythm",
+      "argument": "LOGIC",
+      "type": "weapon",
+      "class": "Bow",
+      "rating": 3,
+      "ml": "MARIUS",
+      "influence": 879,
+      "defense": 480,
+      "src": "rhythm.png"
+  },
+  {
+      "name": "Fully Prepped",
+      "argument": "LOGIC",
+      "type": "weapon",
+      "class": "Bow",
+      "rating": 3,
+      "ml": "MARIUS",
+      "influence": 879,
+      "defense": 480,
+      "src": "fully-prepped.png"
+  },
+  {
+      "name": "Sudden Occurence",
+      "argument": "INTUITION",
+      "type": "weapon",
+      "class": "Bow",
+      "rating": 3,
+      "ml": "MARIUS",
+      "influence": 879,
+      "defense": 480,
+      "src": "sudden-occurence.png"
+  },
+  {
+      "name": "Presence",
+      "argument": "INTUITION",
+      "type": "weapon",
+      "class": "Bow",
+      "rating": 5,
+      "ml": "MARIUS",
+      "influence": 879,
+      "defense": 480,
+      "src": "presence.png"
+  }
+]

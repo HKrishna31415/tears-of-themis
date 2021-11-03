@@ -1,0 +1,1219 @@
+[
+  {
+
+      "name": {
+
+          "en": "Personal Server",
+
+      },
+      "type": "EMPATHY",
+      "rarity": 3,
+      "ml": "LUKE",
+      "skills": [
+          "层层深入γ Ⅰ",
+          "步步为营 Ⅰ"
+      ],
+      "influence": 879,
+      "defense": 480,
+      "src":
+
+
+      ]
+  },
+  {
+
+      "name": {
+
+          "en": "Partner",
+
+      },
+      "type": "EMPATHY",
+      "rarity": 3,
+      "ml": "LUKE",
+      "skills": [
+          "循循善诱γ Ⅰ",
+          "步步为营 Ⅰ"
+      ],
+      "influence": 879,
+      "defense": 480,
+      "src":
+
+
+      ]
+  },
+  {
+
+      "name": {
+
+          "en": "Waiting for You",
+
+      },
+      "type": "EMPATHY",
+      "rarity": 3,
+      "ml": "LUKE",
+      "skills": [
+          "循循善诱β Ⅰ",
+          "势如破竹 Ⅰ"
+      ],
+      "influence": 879,
+      "defense": 480,
+      "src":
+
+
+      ]
+  },
+  {
+
+      "name": {
+
+          "en": "Gourmet",
+
+      },
+      "type": "LOGIC",
+      "rarity": 3,
+      "ml": "LUKE",
+      "skills": [
+          "设问否定γ Ⅰ",
+          "势如破竹 Ⅰ"
+      ],
+      "influence": 879,
+      "defense": 480,
+      "src":
+
+
+      ]
+  },
+  {
+
+      "name": {
+
+          "en": "Our Secret",
+
+      },
+      "type": "LOGIC",
+      "rarity": 3,
+      "ml": "LUKE",
+      "skills": [
+          "以理服人β Ⅰ",
+          "势如破竹 Ⅰ"
+      ],
+      "influence": 879,
+      "defense": 480,
+      "src":
+
+
+      ]
+  },
+  {
+
+      "name": {
+
+          "en": "Greetings",
+
+      },
+      "type": "INTUITION",
+      "rarity": 3,
+      "ml": "LUKE",
+      "skills": [
+          "洞察秋毫α Ⅰ",
+          "势如破竹 Ⅰ"
+      ],
+      "influence": 879,
+      "defense": 480,
+      "src":
+
+
+      ]
+  },
+  {
+
+      "name": {
+
+          "en": "Tiredness",
+
+      },
+      "type": "INTUITION",
+      "rarity": 3,
+      "ml": "LUKE",
+      "skills": [
+          "洞察秋毫β Ⅰ",
+          "步步为营 Ⅰ"
+      ],
+      "influence": 879,
+      "defense": 480,
+      "src":
+
+
+      ]
+  },
+  {
+
+      "name": {
+
+          "en": "Warm Up",
+
+      },
+      "type": "INTUITION",
+      "rarity": 3,
+      "ml": "LUKE",
+      "skills": [
+          "以退为进β Ⅰ",
+          "步步为营 Ⅰ"
+      ],
+      "influence": 879,
+      "defense": 480,
+      "src":
+
+
+      ]
+  },
+  {
+
+      "name": {
+
+          "en": "All Ready",
+
+      },
+      "type": "LOGIC",
+      "rarity": 3,
+      "ml": "LUKE",
+      "skills": [
+          "示假隐真β Ⅰ",
+          "势如破竹 Ⅰ"
+      ],
+      "influence": 879,
+      "defense": 480,
+      "src":
+
+      ]
+  },
+  {
+
+      "name": {
+
+      },
+      "type": "INTUITION",
+      "rarity": 3,
+      "ml": "LUKE",
+      "skills": [
+          "先声夺势 Ⅰ",
+          "步步为营 Ⅰ"
+      ],
+      "influence": 879,
+      "defense": 480,
+      "src":
+
+      ]
+  },
+  {
+
+      "name": "Warm Little House"
+      "type": "EMPATHY",
+      "rarity": 3,
+      "ml": "LUKE",
+      "influence": 879,
+      "defense": 480,
+      "src":
+  },
+  {
+
+      "name": {
+
+      },
+      "type": "LOGIC",
+      "rarity": 3,
+      "ml": "LUKE",
+      "skills": [
+          "以理服人β Ⅰ",
+          "势如破竹 Ⅰ"
+      ],
+      "influence": 879,
+      "defense": 480,
+      "src":
+
+      ]
+  },
+  {
+
+      "name": {
+
+      },
+      "type": "INTUITION",
+      "rarity": 3,
+      "ml": "LUKE",
+      "skills": [
+          "以退为进γ Ⅰ",
+          "势如破竹 Ⅰ"
+      ],
+      "influence": 879,
+      "defense": 480,
+      "src":
+
+      ]
+  },
+  {
+
+      "name": {
+
+      },
+      "type": "EMPATHY",
+      "rarity": 3,
+      "ml": "LUKE",
+      "skills": [
+          "引申归谬β Ⅰ",
+          "步步为营 Ⅰ"
+      ],
+      "influence": 905,
+      "defense": 389,
+      "src":
+
+      ]
+  },
+  {
+
+      "name": {
+
+      },
+      "type": "INTUITION",
+      "rarity": 3,
+      "ml": "LUKE",
+      "skills": [
+          "洞察秋毫γ Ⅰ",
+          "步步为营 Ⅰ"
+      ],
+      "influence": 889,
+      "defense": 405,
+      "src":
+
+      ]
+  },
+  {
+
+      "name": {
+
+      },
+      "type": "INTUITION",
+      "rarity": 3,
+      "ml": "LUKE",
+      "skills": [
+          "避实就虚 Ⅰ",
+          "势如破竹 Ⅰ"
+      ],
+      "influence": 863,
+      "defense": 431,
+      "src":
+
+      ]
+  },
+  {
+
+      "name": {
+
+          "en": "Tailored Suit",
+
+      },
+      "type": "LOGIC",
+      "rarity": 3,
+      "ml": "ARTEM",
+      "skills": [
+          "以退为进β Ⅰ",
+          "势如破竹 Ⅰ"
+      ],
+      "influence": 879,
+      "defense": 480,
+      "src":
+
+
+      ]
+  },
+  {
+
+      "name": {
+
+          "en": "Rain Drops",
+
+      },
+      "type": "LOGIC",
+      "rarity": 3,
+      "ml": "ARTEM",
+      "skills": [
+          "设问否定β Ⅰ",
+          "势如破竹 Ⅰ"
+      ],
+      "influence": 879,
+      "defense": 480,
+      "src":
+
+
+      ]
+  },
+  {
+
+      "name": {
+
+          "en": "Questioning",
+
+      },
+      "type": "LOGIC",
+      "rarity": 3,
+      "ml": "ARTEM",
+      "skills": [
+          "以理服人α Ⅰ",
+          "势如破竹 Ⅰ"
+      ],
+      "influence": 879,
+      "defense": 480,
+      "src":
+
+
+      ]
+  },
+  {
+
+      "name": {
+
+          "en": "Picking a Gift",
+
+      },
+      "type": "EMPATHY",
+      "rarity": 3,
+      "ml": "ARTEM",
+      "skills": [
+          "引申归谬γ Ⅰ",
+          "步步为营 Ⅰ"
+      ],
+      "influence": 879,
+      "defense": 480,
+      "src":
+
+
+      ]
+  },
+  {
+
+      "name": {
+
+          "en": "Taking a Breather",
+
+      },
+      "type": "EMPATHY",
+      "rarity": 3,
+      "ml": "ARTEM",
+      "skills": [
+          "引申归谬α Ⅰ",
+          "步步为营 Ⅰ"
+      ],
+      "influence": 879,
+      "defense": 480,
+      "src":
+
+
+      ]
+  },
+  {
+
+      "name": {
+
+          "en": "Back to Business",
+
+      },
+      "type": "EMPATHY",
+      "rarity": 3,
+      "ml": "ARTEM",
+      "skills": [
+          "引申归谬β Ⅰ",
+          "势如破竹 Ⅰ"
+      ],
+      "influence": 879,
+      "defense": 480,
+      "src":
+
+
+      ]
+  },
+  {
+
+      "name": {
+
+          "en": "Patience Is a Virtue",
+
+      },
+      "type": "INTUITION",
+      "rarity": 3,
+      "ml": "ARTEM",
+      "skills": [
+          "层层深入β Ⅰ",
+          "步步为营 Ⅰ"
+      ],
+      "influence": 879,
+      "defense": 480,
+      "src":
+
+
+      ]
+  },
+  {
+
+      "name": {
+
+          "en": "Lock and Load",
+
+      },
+      "type": "INTUITION",
+      "rarity": 3,
+      "ml": "ARTEM",
+      "skills": [
+          "层层深入γ Ⅰ",
+          "势如破竹 Ⅰ"
+      ],
+      "influence": 879,
+      "defense": 480,
+      "src":
+
+
+      ]
+  },
+  {
+
+      "name": {
+
+          "en": "Here For You",
+
+      },
+      "type": "INTUITION",
+      "rarity": 3,
+      "ml": "ARTEM",
+      "skills": [
+          "以德服人α Ⅰ",
+          "步步为营 Ⅰ"
+      ],
+      "influence": 879,
+      "defense": 480,
+      "src":
+
+      ]
+  },
+  {
+
+      "name": "Heart's Boundary Flight",
+      "type": "INTUITION",
+      "rarity": 3,
+      "ml": "ARTEM",
+      "influence": 879,
+      "defense": 480,
+      "src":
+  },
+  {
+
+      "name": {
+
+      },
+      "type": "LOGIC",
+      "rarity": 3,
+      "ml": "ARTEM",
+      "skills": [
+          "以理服人α Ⅰ",
+          "势如破竹 Ⅰ"
+      ],
+      "influence": 837,
+      "defense": 457,
+      "src":
+
+      ]
+  },
+  {
+
+      "name": {
+
+      },
+      "type": "EMPATHY",
+      "rarity": 3,
+      "ml": "ARTEM",
+      "skills": [
+          "层层深入α Ⅰ",
+          "步步为营 Ⅰ"
+      ],
+      "influence": 837,
+      "defense": 457,
+      "src":
+
+      ]
+  },
+  {
+
+      "name": {
+
+      },
+      "type": "LOGIC",
+      "rarity": 3,
+      "ml": "ARTEM",
+      "skills": [
+          "以理服人α Ⅰ",
+          "步步为营 Ⅰ"
+      ],
+      "influence": 863,
+      "defense": 431,
+      "src":
+
+      ]
+  },
+  {
+
+      "name": {
+
+      },
+      "type": "INTUITION",
+      "rarity": 3,
+      "ml": "ARTEM",
+      "skills": [
+          "洞察秋毫γ Ⅰ",
+          "步步为营 Ⅰ"
+      ],
+      "influence": 906,
+      "defense": 389,
+      "src":
+
+      ]
+  },
+  {
+
+      "name": {
+
+      },
+      "type": "EMPATHY",
+      "rarity": 3,
+      "ml": "ARTEM",
+      "skills": [
+          "循循善诱γ Ⅰ",
+          "步步为营 Ⅰ"
+      ],
+      "influence": 647,
+      "defense": 406,
+      "src":
+
+      ]
+  },
+  {
+
+      "name": {
+
+      },
+      "type": "INTUITION",
+      "rarity": 3,
+      "ml": "ARTEM",
+      "skills": [
+          "避实就虚 Ⅰ",
+          "势如破竹 Ⅰ"
+      ],
+      "influence": 863,
+      "defense": 431,
+      "src":
+
+      ]
+  },
+  {
+
+      "name": {
+
+          "en": "Elegance",
+
+      },
+      "type": "EMPATHY",
+      "rarity": 3,
+      "ml": "VYN",
+      "skills": [
+          "以退为进β Ⅰ",
+          "势如破竹 Ⅰ"
+      ],
+      "influence": 879,
+      "defense": 480,
+      "src":
+
+
+      ]
+  },
+  {
+
+      "name": {
+
+          "en": "Remaining in Control",
+
+      },
+      "type": "EMPATHY",
+      "rarity": 3,
+      "ml": "VYN",
+      "skills": [
+          "先声夺势 Ⅰ",
+          "步步为营 Ⅰ"
+      ],
+      "influence": 879,
+      "defense": 480,
+      "src":
+
+
+      ]
+  },
+  {
+
+      "name": {
+
+          "en": "Observations",
+
+      },
+      "type": "LOGIC",
+      "rarity": 3,
+      "ml": "VYN",
+      "skills": [
+          "先声夺势 Ⅰ",
+          "势如破竹 Ⅰ"
+      ],
+      "influence": 879,
+      "defense": 480,
+      "src":
+
+
+      ]
+  },
+  {
+
+      "name": {
+
+          "en": "A Hobby of Mine",
+
+      },
+      "type": "LOGIC",
+      "rarity": 3,
+      "ml": "VYN",
+      "skills": [
+          "以理服人γ Ⅰ",
+          "步步为营 Ⅰ"
+      ],
+      "influence": 879,
+      "defense": 480,
+      "src":
+
+
+      ]
+  },
+  {
+
+      "name": {
+
+          "en": "Leisure Time",
+
+      },
+      "type": "INTUITION",
+      "rarity": 3,
+      "ml": "VYN",
+      "skills": [
+          "先声夺势 Ⅰ",
+          "势如破竹 Ⅰ"
+      ],
+      "influence": 879,
+      "defense": 480,
+      "src":
+
+
+      ]
+  },
+  {
+
+      "name": {
+
+          "en": "Unexpected Letter",
+
+      },
+      "type": "INTUITION",
+      "rarity": 3,
+      "ml": "VYN",
+      "skills": [
+          "洞察秋毫γ Ⅰ",
+          "势如破竹 Ⅰ"
+      ],
+      "influence": 879,
+      "defense": 480,
+      "src":
+
+
+      ]
+  },
+  {
+
+      "name": {
+
+          "en": "Unexpected Run-In",
+
+      },
+      "type": "INTUITION",
+      "rarity": 3,
+      "ml": "VYN",
+      "skills": [
+          "避实就虚β Ⅰ",
+          "步步为营 Ⅰ"
+      ],
+      "influence": 879,
+      "defense": 480,
+      "src":
+
+
+      ]
+  },
+  {
+
+      "name": {
+
+          "en": "Gentlemanly Courtesy",
+
+      },
+      "type": "LOGIC",
+      "rarity": 3,
+      "ml": "VYN",
+      "skills": [
+          "以退为进γ Ⅰ",
+          "步步为营 Ⅰ"
+      ],
+      "influence": 879,
+      "defense": 480,
+      "src":
+
+
+      ]
+  },
+  {
+
+      "name": {
+
+          "en": "Another Side of You",
+
+      },
+      "type": "EMPATHY",
+      "rarity": 3,
+      "ml": "VYN",
+      "skills": [
+          "先声夺势 Ⅰ",
+          "势如破竹 Ⅰ"
+      ],
+      "influence": 879,
+      "defense": 480,
+      "src":
+
+      ]
+  },
+  {
+
+      "name": {
+
+      },
+      "type": "INTUITION",
+      "rarity": 3,
+      "ml": "VYN",
+      "skills": [
+          "示假隐真α Ⅰ",
+          "步步为营 Ⅰ"
+      ],
+      "influence": 879,
+      "defense": 480,
+      "src":
+
+      ]
+  },
+  {
+      "name": "Secret Congratulatory Gift",
+      "type": "LOGIC",
+      "rarity": 3,
+      "ml": "VYN",
+      "influence": 879,
+      "defense": 480,
+      "src":
+  },
+  {
+
+      "name": {
+
+      },
+      "type": "EMPATHY",
+      "rarity": 3,
+      "ml": "VYN",
+      "skills": [
+          "循循善诱γ Ⅰ",
+          "步步为营 Ⅰ"
+      ],
+      "influence": 837,
+      "defense": 457,
+      "src":
+
+      ]
+  },
+  {
+
+      "name": {
+
+      },
+      "type": "INTUITION",
+      "rarity": 3,
+      "ml": "VYN",
+      "skills": [
+          "以退为进γ Ⅰ",
+          "势如破竹 Ⅰ"
+      ],
+      "influence": 863,
+      "defense": 431,
+      "src":
+
+      ]
+  },
+  {
+
+      "name": {
+
+      },
+      "type": "EMPATHY",
+      "rarity": 3,
+      "ml": "VYN",
+      "skills": [
+          "循循善诱β Ⅰ",
+          "势如破竹 Ⅰ"
+      ],
+      "influence": 863,
+      "defense": 431,
+      "src":
+
+      ]
+  },
+  {
+
+      "name": {
+
+      },
+      "type": "LOGIC",
+      "rarity": 3,
+      "ml": "VYN",
+      "skills": [
+          "以理服人γ Ⅰ",
+          "步步为营 Ⅰ"
+      ],
+      "influence": 889,
+      "defense": 405,
+      "src":
+
+      ]
+  },
+  {
+
+      "name": {
+
+      },
+      "type": "LOGIC",
+      "rarity": 3,
+      "ml": "VYN",
+      "skills": [
+          "先声夺势 Ⅰ",
+          "步步为营 Ⅰ"
+      ],
+      "influence": 905,
+      "defense": 389,
+      "src":
+
+      ]
+  },
+  {
+
+      "name": {
+
+      },
+      "type": "EMPATHY",
+      "rarity": 3,
+      "ml": "VYN",
+      "skills": [
+          "引申归谬 Ⅰ",
+          "势如破竹 Ⅰ"
+      ],
+      "influence": 863,
+      "defense": 431,
+      "src":
+
+      ]
+  },
+  {
+
+      "name": {
+
+          "en": "Interlude",
+
+      },
+      "type": "EMPATHY",
+      "rarity": 3,
+      "ml": "MARIUS",
+      "skills": [
+          "层层深入β Ⅰ",
+          "势如破竹 Ⅰ"
+      ],
+      "influence": 879,
+      "defense": 480,
+      "src":
+
+
+      ]
+  },
+  {
+
+      "name": {
+
+          "en": "Invitation",
+
+      },
+      "type": "EMPATHY",
+      "rarity": 3,
+      "ml": "MARIUS",
+      "skills": [
+          "循循善诱α Ⅰ",
+          "步步为营 Ⅰ"
+      ],
+      "influence": 879,
+      "defense": 480,
+      "src":
+
+
+      ]
+  },
+  {
+
+      "name": {
+
+          "en": "Half-Time",
+
+      },
+      "type": "EMPATHY",
+      "rarity": 3,
+      "ml": "MARIUS",
+      "skills": [
+          "以退为进γ Ⅰ",
+          "势如破竹 Ⅰ"
+      ],
+      "influence": 879,
+      "defense": 480,
+      "src":
+
+
+      ]
+  },
+  {
+
+      "name": {
+
+          "en": "Discussion",
+
+      },
+      "type": "LOGIC",
+      "rarity": 3,
+      "ml": "MARIUS",
+      "skills": [
+          "设问否定β Ⅰ",
+          "步步为营 Ⅰ"
+      ],
+      "influence": 879,
+      "defense": 480,
+      "src":
+
+
+      ]
+  },
+  {
+
+      "name": {
+
+          "en": "Rhythm",
+
+      },
+      "type": "LOGIC",
+      "rarity": 3,
+      "ml": "MARIUS",
+      "skills": [
+          "层层深入β Ⅰ",
+          "势如破竹 Ⅰ"
+      ],
+      "influence": 879,
+      "defense": 480,
+      "src":
+
+
+      ]
+  },
+  {
+
+      "name": {
+
+          "en": "Fully Prepped",
+
+      },
+      "type": "LOGIC",
+      "rarity": 3,
+      "ml": "MARIUS",
+      "skills": [
+          "层层深入γ Ⅰ",
+          "步步为营 Ⅰ"
+      ],
+      "influence": 879,
+      "defense": 480,
+      "src":
+
+
+      ]
+  },
+  {
+
+      "name": {
+
+          "en": "Sudden Occurence",
+
+      },
+      "type": "INTUITION",
+      "rarity": 3,
+      "ml": "MARIUS",
+      "skills": [
+          "避实就虚α Ⅰ",
+          "步步为营 Ⅰ"
+      ],
+      "influence": 879,
+      "defense": 480,
+      "src":
+
+
+      ]
+  },
+  {
+      "name": "Presence",
+      "type": "INTUITION",
+      "rarity": 3,
+      "ml": "MARIUS",
+      "influence": 879,
+      "defense": 480,
+      "src":
+  },
+  {
+      "name": "Practice Makes Perfect",
+      "type": "INTUITION",
+      "rarity": 3,
+      "ml": "MARIUS",
+      "influence": 879,
+      "defense": 480,
+      "src":
+  },
+  {
+      "name": "Myth",
+      "type": "LOGIC",
+      "rarity": 3,
+      "ml": "MARIUS",
+      "influence": 879,
+      "defense": 480,
+      "src":
+  },
+  {
+
+      "name": {
+
+      },
+      "type": "EMPATHY",
+      "rarity": 3,
+      "ml": "MARIUS",
+      "skills": [
+          "循循善诱α Ⅰ",
+          "步步为营 Ⅰ"
+      ],
+      "influence": 879,
+      "defense": 480,
+      "src":
+
+      ]
+  },
+  {
+
+      "name": {
+
+      },
+      "type": "INTUITION",
+      "rarity": 3,
+      "ml": "MARIUS",
+      "skills": [
+          "层层深入α Ⅰ",
+          "步步为营 Ⅰ"
+      ],
+      "influence": 879,
+      "defense": 480,
+      "src":
+
+      ]
+  },
+  {
+
+      "name": {
+
+      },
+      "type": "EMPATHY",
+      "rarity": 3,
+      "ml": "MARIUS",
+      "skills": [
+          "循循善诱α Ⅰ",
+          "步步为营 Ⅰ"
+      ],
+      "influence": 837,
+      "defense": 457,
+      "src":
+
+      ]
+  },
+  {
+
+      "name": {
+
+      },
+      "type": "LOGIC",
+      "rarity": 3,
+      "ml": "MARIUS",
+      "skills": [
+          "设问否定γ Ⅰ",
+          "势如破竹 Ⅰ"
+      ],
+      "influence": 906,
+      "defense": 389,
+      "src":
+
+      ]
+  },
+  {
+
+      "name": {
+
+      },
+      "type": "EMPATHY",
+      "rarity": 3,
+      "ml": "MARIUS",
+      "skills": [
+          "循循善诱γ Ⅰ",
+          "步步为营 Ⅰ"
+      ],
+      "influence": 889,
+      "defense": 405,
+      "src":
+
+      ]
+  },
+  {
+
+      "name": {
+
+      },
+      "type": "LOGIC",
+      "rarity": 3,
+      "ml": "MARIUS",
+      "skills": [
+          "设问否定 Ⅰ",
+          "势如破竹 Ⅰ"
+      ],
+      "influence": 863,
+      "defense": 431,
+      "src":
+
+      ]
+  }
+]
